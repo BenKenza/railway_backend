@@ -31,7 +31,7 @@ message = re.sub(r'\n', ' ', message)
 message = re.sub(r'\d{2}-\d{2}-\d{2,4}', '', message)
 
 if not message.strip():
-    print(json.dumps({"error": "Le texte OCR est vide. Merci de reprendre une image plus claire."}))
+    print(json.dumps({"error": "Le texte OCR est vide. 111111Merci de reprendre une image plus claire."}))
     sys.exit(0)
 
 # 🔢 Encodage des infos patient
