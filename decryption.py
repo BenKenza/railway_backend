@@ -27,7 +27,6 @@ logger.info(f"📥 Décryptage de : {image_path} | Genre: {gender} | Âge: {age}
 
 # 🔍 OCR
 message = ocr_preprocess.getmessage(image_path)
-print("Texte brut extrait :", repr(message))
 message = re.sub(r'\n', ' ', message)
 message = re.sub(r'\d{2}-\d{2}-\d{2,4}', '', message)
 
