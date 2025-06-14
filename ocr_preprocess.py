@@ -67,7 +67,7 @@ logger = logging.getLogger(__name__)
 
 # 🔤 Mot valide = lettre ou chiffre, au moins 3 caractères
 def is_valid_word(word):
-    return re.fullmatch(r"[A-Za-z0-9éèàâêîôûçÉÈÀÂÊÎÔÛÇ'-]{3,}", word) is not None
+    return re.fullmatch(r"[A-Za-z0-9éèàâêîôûçÉÈÀÂÊÎÔÛÇ'-]{2,}", word) is not None
 
 # 📚 Charger le dictionnaire médical + français
 def load_french_dictionary(txt_path="dict.txt", json_path="MedicalTerms.json"):
