@@ -1,55 +1,3 @@
-"""import cv2
-import numpy as np
-import pytesseract
-pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"
-import logging
-
-# Configuration du logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
-
-def getmessage(imagefile, debug_mode=True):
-    try:
-        logger.info("🟢 Début getmessage")
-
-        if isinstance(imagefile, str):
-            logger.info("🖼️ Chargement de l'image depuis le chemin : %s", imagefile)
-            img = cv2.imread(imagefile)
-        elif isinstance(imagefile, bytes):
-            logger.info("🧾 Chargement de l'image depuis bytes")
-            nparr = np.frombuffer(imagefile, np.uint8)
-            img = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
-        elif isinstance(imagefile, np.ndarray):
-            logger.info("📦 Chargement depuis tableau NumPy")
-            img = imagefile
-        else:
-            raise ValueError("❌ Format d'image non supporté")
-
-        if img is None:
-            raise ValueError("❌ Impossible de charger l'image")
-
-        logger.info("📷 Conversion en niveaux de gris")
-        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-
-        logger.info("🔍 Agrandissement")
-        resized = cv2.resize(gray, None, fx=2, fy=2, interpolation=cv2.INTER_LINEAR)
-
-        logger.info("🧪 Seuillage")
-        thresholded = cv2.adaptiveThreshold(
-            resized, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
-            cv2.THRESH_BINARY, 65, 13
-        )
-
-        logger.info("🧠 Lancement de Tesseract OCR")
-        text = pytesseract.image_to_string(thresholded, lang='fra', config='--oem 3 --psm 6')
-        logger.info("✅ OCR terminé")
-
-        return text.strip()
-
-    except Exception as e:
-        logger.error(f"❌ Erreur dans getmessage : {str(e)}")
-        raise
-"""
 import os
 import cv2
 import json
@@ -67,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 # 🔤 Mot valide = lettre ou chiffre, au moins 3 caractères
 def is_valid_word(word):
-    return re.fullmatch(r"[A-Za-z0-9éèàâêîôûçÉÈÀÂÊÎÔÛÇ'-]{2,}", word) is not None
+    return re.fullmatch(r"[A-Za-z0-9éèàâêîôûçÉÈÀÂÊÎÔÛÇ'-]{3,}", word) is not None
 
 # 📚 Charger le dictionnaire médical + français
 def load_french_dictionary(txt_path="dict.txt", json_path="MedicalTerms.json"):
@@ -192,4 +140,3 @@ def getmessage(imagefile, debug_mode=True):
     except Exception as e:
         logger.error(f"❌ Erreur dans getmessage : {e}")
         return ""
-
