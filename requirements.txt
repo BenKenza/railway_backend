@@ -1,0 +1,14 @@
+Flask
+flask_cors
+joblib
+scikit-learn
+pytesseract
+gunicorn
+opencv-python-headless
+numpy
+google-generativeai
+python-dotenv
+pillow
+requests
+matplotlib
+opencv-python

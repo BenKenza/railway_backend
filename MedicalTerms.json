@@ -1,0 +1,5137 @@
+[
+  {
+    "name": "#",
+    "entries": [
+      {
+        "abbreviation": "5-HiAA",
+        "term": "5-hydroxyindole acetic acid (en) (A5HIA) ; ou acide 5-hydroxyindolacétique"
+      },
+      {
+        "abbreviation": "5-HT",
+        "term": "5-Hydroxytryptamine ou Sérotonine"
+      }
+    ]
+  },
+  {
+    "name": "A",
+    "entries": [
+      {
+        "abbreviation": "A1At",
+        "term": "α-1-antitrypsine (aussi αAT ou AAT)"
+      },
+      {
+        "abbreviation": "AA",
+        "term": "aorte ascendante (en), affection actuelle, acide aminé, air ambiant, antiarthrosique, ou amplitude articulaire (en)"
+      },
+      {
+        "abbreviation": "AAA",
+        "term": "anévrisme de l'aorte abdominale ou abcès apical aigu"
+      },
+      {
+        "abbreviation": "AAB",
+        "term": "abdomen à blanc"
+      },
+      {
+        "abbreviation": "AAC",
+        "term": "allergies alimentaires croisées"
+      },
+      {
+        "abbreviation": "AAE",
+        "term": "alvéolite allergique extrinsèque"
+      },
+      {
+        "abbreviation": "AAG",
+        "term": "asthme aigu grave"
+      },
+      {
+        "abbreviation": "AAH",
+        "term": "allocation aux adultes handicapés"
+      },
+      {
+        "abbreviation": "AAM",
+        "term": "anticorps antimitochondries (en)"
+      },
+      {
+        "abbreviation": "AAN",
+        "term": "anticorps antinucléaire"
+      },
+      {
+        "abbreviation": "AAP",
+        "term": "antiagrégant plaquettaire"
+      },
+      {
+        "abbreviation": "AAR",
+        "term": "anti-arythmique"
+      },
+      {
+        "abbreviation": "AAT",
+        "term": "α-1-antitrypsine (αAT)"
+      },
+      {
+        "abbreviation": "ABC",
+        "term": "ATP Binding Cassette"
+      },
+      {
+        "abbreviation": "ABCDE",
+        "term": "Asymétrie, Bords irréguliers, Couleur inhomogène, Diamètre supérieur à 6 mm, Évolution (critères du mélanome)"
+      },
+      {
+        "abbreviation": "ABPA",
+        "term": "aspergillose bronchopulmonaire allergique"
+      },
+      {
+        "abbreviation": "AC ou ACR",
+        "term": "arrêt cardiaque ou arrêt cardio-respiratoire"
+      },
+      {
+        "abbreviation": "AC",
+        "term": "(ante cibum) avant le repas (pré prandial (en)), anticorps ou anticoagulé"
+      },
+      {
+        "abbreviation": "ACCA",
+        "term": "ancien chef de clinique assistant"
+      },
+      {
+        "abbreviation": "ACD",
+        "term": "acidocétose diabétique"
+      },
+      {
+        "abbreviation": "ACFA",
+        "term": "arythmie complète par fibrillation auriculaire"
+      },
+      {
+        "abbreviation": "ACE",
+        "term": "antigène carcino-embryonnaire"
+      },
+      {
+        "abbreviation": "ACG",
+        "term": "autocontrôle de la glycémie"
+      },
+      {
+        "abbreviation": "ACM",
+        "term": "artère cérébrale moyenne"
+      },
+      {
+        "abbreviation": "ACOMI",
+        "term": "artériopathie chronique oblitérante des membres inférieurs"
+      },
+      {
+        "abbreviation": "ACR",
+        "term": "arrêt cardiorespiratoire"
+      },
+      {
+        "abbreviation": "ACSOS",
+        "term": "agressions cérébrales secondaires d'origine systémique"
+      },
+      {
+        "abbreviation": "ACTH",
+        "term": "adrenocorticotropic hormone (corticotrophine)"
+      },
+      {
+        "abbreviation": "ACTP",
+        "term": "angioplastie coronarienne transluminale percutanée"
+      },
+      {
+        "abbreviation": "ACV",
+        "term": "Aciclovir (et anciennement : Accident cérébro-vasculaire)"
+      },
+      {
+        "abbreviation": "ad",
+        "term": "jusqu'à ou (auricula dexter) oreillette droite atrium droit"
+      },
+      {
+        "abbreviation": "ADH",
+        "term": "antidiuretic hormone (hormone antidiurétique)"
+      },
+      {
+        "abbreviation": "ADK",
+        "term": "adénocarcinome"
+      },
+      {
+        "abbreviation": "ADN",
+        "term": "acide désoxyribonucléique"
+      },
+      {
+        "abbreviation": "ADO",
+        "term": "anti-diabétiques oraux"
+      },
+      {
+        "abbreviation": "ADP",
+        "term": "adénopathie, ou adénosine diphosphate"
+      },
+      {
+        "abbreviation": "ADT",
+        "term": "accident du travail"
+      },
+      {
+        "abbreviation": "ADVC",
+        "term": "accident de la vie courante"
+      },
+      {
+        "abbreviation": "AEC",
+        "term": "Altération de l'état de conscience (confusion)"
+      },
+      {
+        "abbreviation": "AEG",
+        "term": "altération de l'état général"
+      },
+      {
+        "abbreviation": "AEH",
+        "term": "allocation enfant handicapé"
+      },
+      {
+        "abbreviation": "AEP",
+        "term": "angine érythémato-pultacée"
+      },
+      {
+        "abbreviation": "AES",
+        "term": "accident d'exposition au sang ou auto-examen du sein (en)"
+      },
+      {
+        "abbreviation": "AF",
+        "term": "antécédent familial"
+      },
+      {
+        "abbreviation": "AFP",
+        "term": "Alpha-fœtoprotéine"
+      },
+      {
+        "abbreviation": "AG",
+        "term": "anesthésie générale, ou acide gras"
+      },
+      {
+        "abbreviation": "AGT",
+        "term": "Amnésie transitoire globale"
+      },
+      {
+        "abbreviation": "Ag",
+        "term": "antigène ou argent"
+      },
+      {
+        "abbreviation": "AHAI",
+        "term": "anémie hémolytique auto-immune"
+      },
+      {
+        "abbreviation": "AI",
+        "term": "angor instable ou auto-immun"
+      },
+      {
+        "abbreviation": "AIAP",
+        "term": "arthrose inter apophysaire postérieure"
+      },
+      {
+        "abbreviation": "AIP",
+        "term": "acute interstitial pneumonia"
+      },
+      {
+        "abbreviation": "AINS",
+        "term": "anti-inflammatoire non stéroïdien"
+      },
+      {
+        "abbreviation": "AIT",
+        "term": "accident ischémique transitoire"
+      },
+      {
+        "abbreviation": "AJI",
+        "term": "Arthrite juvénile idiopathique"
+      },
+      {
+        "abbreviation": "AK",
+        "term": "akinésie"
+      },
+      {
+        "abbreviation": "ALAT",
+        "term": "alanine aminotransférase"
+      },
+      {
+        "abbreviation": "ALD",
+        "term": "affection longue durée, adrénoleucodystrophie ou aliments lactés diététiques"
+      },
+      {
+        "abbreviation": "ALIS",
+        "term": "Association liberté information santé (association pour la liberté de vacciner)"
+      },
+      {
+        "abbreviation": "ALPS",
+        "term": "autoimmune lymphoproliferative syndrome (Syndrome lymphoprolifératif avec auto-immunité)"
+      },
+      {
+        "abbreviation": "ALR",
+        "term": "anesthésie locorégionale"
+      },
+      {
+        "abbreviation": "AME",
+        "term": "Aide médicale d'État"
+      },
+      {
+        "abbreviation": "AMI",
+        "term": "Artère mésentérique inférieure"
+      },
+      {
+        "abbreviation": "AMIR",
+        "term": "anomalie micro-vasculaire intra-rétinienne"
+      },
+      {
+        "abbreviation": "AMM",
+        "term": "autorisation de mise sur le marché"
+      },
+      {
+        "abbreviation": "AMO",
+        "term": "Ablation du matériel d'ostéosynthèse (en)"
+      },
+      {
+        "abbreviation": "AMP",
+        "term": "adénosine monophosphate, aide médicale à la procréation ou ampoule"
+      },
+      {
+        "abbreviation": "AMPc",
+        "term": "AMP cyclique"
+      },
+      {
+        "abbreviation": "AMS",
+        "term": "aire motrice supplémentaire"
+      },
+      {
+        "abbreviation": "AMS",
+        "term": "Artère mésentérique supérieure"
+      },
+      {
+        "abbreviation": "ANCA",
+        "term": "anti neutrophilic cytoplasm antibody (anticorps anti-cytoplasme des neutrophiles)"
+      },
+      {
+        "abbreviation": "ANO (+)",
+        "term": "AID POSITIF"
+      },
+      {
+        "abbreviation": "ANSM",
+        "term": "Agence nationale de sécurité du médicament et des produits de santé"
+      },
+      {
+        "abbreviation": "AOD",
+        "term": "anticoagulant oral direct"
+      },
+      {
+        "abbreviation": "AOMI",
+        "term": "artériopathie oblitérante des membres inférieurs"
+      },
+      {
+        "abbreviation": "AP",
+        "term": "artère pulmonaire"
+      },
+      {
+        "abbreviation": "APCN",
+        "term": "aspergillose pulmonaire chronique nécrosante"
+      },
+      {
+        "abbreviation": "APGAR",
+        "term": "american pediatric gross assessment record"
+      },
+      {
+        "abbreviation": "API",
+        "term": "aspergillose pulmonaire invasive"
+      },
+      {
+        "abbreviation": "APP",
+        "term": "appendicectomie"
+      },
+      {
+        "abbreviation": "APSI",
+        "term": "atrésie pulmonaire à septum intact"
+      },
+      {
+        "abbreviation": "APSO",
+        "term": "atrésie pulmonaire à septum ouvert"
+      },
+      {
+        "abbreviation": "APUD",
+        "term": "amine precursor uptake and decarboxylation (groupe de cellules captant et décarboxylant des précurseurs d'amines)"
+      },
+      {
+        "abbreviation": "AR",
+        "term": "autosomique récessif"
+      },
+      {
+        "abbreviation": "ARA2",
+        "term": "Antagoniste des récepteurs de l'angiotensine II"
+      },
+      {
+        "abbreviation": "ARD",
+        "term": "Ankyrin repeat containing domain (en)"
+      },
+      {
+        "abbreviation": "ARH",
+        "term": "agence régionale de l'hospitalisation"
+      },
+      {
+        "abbreviation": "ARM",
+        "term": "angio-IRM"
+      },
+      {
+        "abbreviation": "ARN",
+        "term": "acide ribonucléique"
+      },
+      {
+        "abbreviation": "ARNm",
+        "term": "ARN messager"
+      },
+      {
+        "abbreviation": "ARS",
+        "term": "Agence régionale de santé"
+      },
+      {
+        "abbreviation": "AS",
+        "term": "aide-soignant ou (auricula sinister) oreillette gauche, atrium gauche"
+      },
+      {
+        "abbreviation": "ASA",
+        "term": "American Society of Anesthesiologists pour la classification du risque opératoire"
+      },
+      {
+        "abbreviation": "ASAT",
+        "term": "aspartate aminotransférase"
+      },
+      {
+        "abbreviation": "ASC",
+        "term": "aire sous la courbe"
+      },
+      {
+        "abbreviation": "ASH",
+        "term": "agent des services hospitaliers"
+      },
+      {
+        "abbreviation": "ASIA",
+        "term": "anévrisme du septum inter-auriculaire ; ou score ASIA (en) "
+      },
+      {
+        "abbreviation": "ASLO",
+        "term": "antistreptolysine O"
+      },
+      {
+        "abbreviation": "ASMR",
+        "term": "amélioration du service médical rendu"
+      },
+      {
+        "abbreviation": "ASP",
+        "term": "abdomen sans préparation, ou avortement spontané précoce"
+      },
+      {
+        "abbreviation": "AT",
+        "term": "arrêt de travail"
+      },
+      {
+        "abbreviation": "AT1",
+        "term": "angiotensine I"
+      },
+      {
+        "abbreviation": "AT2",
+        "term": "angiotensine II"
+      },
+      {
+        "abbreviation": "ATB",
+        "term": "Arbre trachéo-bronchique"
+      },
+      {
+        "abbreviation": "ATC",
+        "term": "angioplastie trans-coronarienne"
+      },
+      {
+        "abbreviation": "ATCD",
+        "term": "antécédents"
+      },
+      {
+        "abbreviation": "ATL",
+        "term": "angioplastie transluminale"
+      },
+      {
+        "abbreviation": "ATL",
+        "term": "Aspirin triggered epi-lipoxin (en)"
+      },
+      {
+        "abbreviation": "ATP",
+        "term": "adénosine triphosphate"
+      },
+      {
+        "abbreviation": "ATS",
+        "term": "antithyroïdien de synthèse"
+      },
+      {
+        "abbreviation": "ATU",
+        "term": "Autorisation temporaire d'utilisation"
+      },
+      {
+        "abbreviation": "AV",
+        "term": "acuité visuelle"
+      },
+      {
+        "abbreviation": "AVB",
+        "term": "accouchement par voie basse"
+      },
+      {
+        "abbreviation": "AVC",
+        "term": "accident vasculaire cérébral"
+      },
+      {
+        "abbreviation": "AVD",
+        "term": "activités de la vie domestique"
+      },
+      {
+        "abbreviation": "aVf, aVL, aVr",
+        "term": "dérivations électrocardiographiques unipolaires"
+      },
+      {
+        "abbreviation": "AVK",
+        "term": "anti-vitamine K"
+      },
+      {
+        "abbreviation": "AVP",
+        "term": "accident sur la voie publique"
+      },
+      {
+        "abbreviation": "AVQ",
+        "term": "activités de la vie quotidienne"
+      }
+    ]
+  },
+  {
+    "name": "B",
+    "entries": [
+      {
+        "abbreviation": "BAAR",
+        "term": "Bacille acido-alcoolo-résistant"
+      },
+      {
+        "abbreviation": "BABP",
+        "term": "plâtre brachio-anté-brachio-palmaire"
+      },
+      {
+        "abbreviation": "BAT",
+        "term": "biopsie d'artère temporale → Maladie de Horton"
+      },
+      {
+        "abbreviation": "BAV",
+        "term": "bloc auriculo-ventriculaire, ou baisse de l'acuité visuelle, ou Bas à varice"
+      },
+      {
+        "abbreviation": "BB",
+        "term": "Bébé"
+      },
+      {
+        "abbreviation": "BBBB",
+        "term": "bébé bouge bien"
+      },
+      {
+        "abbreviation": "BBD",
+        "term": "bloc de branche droit"
+      },
+      {
+        "abbreviation": "BBG",
+        "term": "bloc de branche gauche"
+      },
+      {
+        "abbreviation": "BBK",
+        "term": "signe de Babinski"
+      },
+      {
+        "abbreviation": "BBS",
+        "term": "maladie de Besnier-Boeck-Schaumann (sarcoïdose)"
+      },
+      {
+        "abbreviation": "BCG",
+        "term": "bacille de Calmette et Guérin"
+      },
+      {
+        "abbreviation": "BD",
+        "term": "bronchodilatateur"
+      },
+      {
+        "abbreviation": "BDA",
+        "term": "bouffée délirante aiguë"
+      },
+      {
+        "abbreviation": "BDC",
+        "term": "bruit du cœur"
+      },
+      {
+        "abbreviation": "BEA",
+        "term": "bonne entrée d'air (BEAx2 pour les deux poumons)"
+      },
+      {
+        "abbreviation": "BEG",
+        "term": "bon état général"
+      },
+      {
+        "abbreviation": "BEH",
+        "term": "bulletin épidémiologique hebdomadaire"
+      },
+      {
+        "abbreviation": "BES",
+        "term": "bien-être social, ou Bilan Électrolytique Sanguin"
+      },
+      {
+        "abbreviation": "BGN",
+        "term": "bacille gram négatif"
+      },
+      {
+        "abbreviation": "BGP",
+        "term": "bacille gram positif"
+      },
+      {
+        "abbreviation": "BH",
+        "term": "bilan hépatique"
+      },
+      {
+        "abbreviation": "BHA",
+        "term": "bruits hydro-aériques"
+      },
+      {
+        "abbreviation": "BHD",
+        "term": "buprénorphine haut dosage (Subutex®)"
+      },
+      {
+        "abbreviation": "BHE",
+        "term": "barrière hémato-encéphalique"
+      },
+      {
+        "abbreviation": "BHR",
+        "term": "bactéries hautement résistantes"
+      },
+      {
+        "abbreviation": "BID",
+        "term": "(Bis In Die) Deux fois par jour"
+      },
+      {
+        "abbreviation": "BIP",
+        "term": "diamètre bipariétal"
+      },
+      {
+        "abbreviation": "BK",
+        "term": "bacille de Koch"
+      },
+      {
+        "abbreviation": "BLSE",
+        "term": "Bêta-lactamase à spectre élargi, ou étendu"
+      },
+      {
+        "abbreviation": "BM",
+        "term": "biopsie médullaire, ou brûlures mictionnelles"
+      },
+      {
+        "abbreviation": "BMI (body mass index)",
+        "term": "indice de masse corporelle"
+      },
+      {
+        "abbreviation": "BMR",
+        "term": "bactérie multirésistante aux antibiotiques"
+      },
+      {
+        "abbreviation": "BNP",
+        "term": "Brain Natriuretic Peptide"
+      },
+      {
+        "abbreviation": "BOM",
+        "term": "biopsie ostéomédullaire"
+      },
+      {
+        "abbreviation": "BP",
+        "term": "blood patch"
+      },
+      {
+        "abbreviation": "BPCO",
+        "term": "bronchopneumopathie chronique obstructive"
+      },
+      {
+        "abbreviation": "BPM",
+        "term": "battements par minute"
+      },
+      {
+        "abbreviation": "BS",
+        "term": "bilan sanguin"
+      },
+      {
+        "abbreviation": "BSH",
+        "term": "bonne santé habituelle"
+      },
+      {
+        "abbreviation": "BSA",
+        "term": "bloc sino auriculaire"
+      },
+      {
+        "abbreviation": "BSAD",
+        "term": "bourse sous-acromio-deltoïdienne"
+      },
+      {
+        "abbreviation": "BTTA",
+        "term": "Botulinum toxin type A (Toxine botulique)"
+      },
+      {
+        "abbreviation": "BU",
+        "term": "bandelette urinaire"
+      },
+      {
+        "abbreviation": "BUM (fiche)",
+        "term": "fiche de bon usage du médicament"
+      },
+      {
+        "abbreviation": "BUT",
+        "term": "break up time (test de rupture lacrymale)"
+      },
+      {
+        "abbreviation": "BPM",
+        "term": "battement par minute"
+      },
+      {
+        "abbreviation": "Bx",
+        "term": "biopsie"
+      }
+    ]
+  },
+  {
+    "name": "C",
+    "entries": [
+      {
+        "abbreviation": "C3G",
+        "term": "céphalosporine troisième génération"
+      },
+      {
+        "abbreviation": "Ca",
+        "term": "calcium"
+      },
+      {
+        "abbreviation": "CAI / CAE",
+        "term": "conduit auditif interne / externe"
+      },
+      {
+        "abbreviation": "CAT",
+        "term": "conduite à tenir"
+      },
+      {
+        "abbreviation": "CAMSP",
+        "term": "centre d'action médico-social précoce"
+      },
+      {
+        "abbreviation": "CB",
+        "term": "corpuscule de Barr"
+      },
+      {
+        "abbreviation": "CBC",
+        "term": "carcinome broncho-pulmonaire ou carcinome basocellulaire"
+      },
+      {
+        "abbreviation": "CBP",
+        "term": "Cirrhose biliaire primitive"
+      },
+      {
+        "abbreviation": "CCA",
+        "term": "chef de clinique assistant ou Chondrocalcinose articulaire"
+      },
+      {
+        "abbreviation": "CCAM",
+        "term": "classification commune des actes médicaux"
+      },
+      {
+        "abbreviation": "CCH",
+        "term": "crise convulsive hyperthermique"
+      },
+      {
+        "abbreviation": "CCI",
+        "term": "cathéter de chambre implantable"
+      },
+      {
+        "abbreviation": "CCMH ou CGMH",
+        "term": "concentration corpusculaire moyenne en hémoglobine"
+      },
+      {
+        "abbreviation": "CCP",
+        "term": "concentrés des complexes prothrombiniques"
+      },
+      {
+        "abbreviation": "CCR",
+        "term": "cancer colorectal"
+      },
+      {
+        "abbreviation": "CCU",
+        "term": "critical care unit (unité de soins intensifs)"
+      },
+      {
+        "abbreviation": "CCVG",
+        "term": "chambre de chasse du ventricule gauche"
+      },
+      {
+        "abbreviation": "CD",
+        "term": "artère coronaire droite"
+      },
+      {
+        "abbreviation": "CDOM",
+        "term": "Conseil Départemental de l'Ordre des Médecins"
+      },
+      {
+        "abbreviation": "CEC",
+        "term": "circulation extra-corporelle"
+      },
+      {
+        "abbreviation": "CEE",
+        "term": "choc électrique externe"
+      },
+      {
+        "abbreviation": "CF",
+        "term": "constipation fonctionnelle"
+      },
+      {
+        "abbreviation": "CG",
+        "term": "chorionic gonadotropin (hormone gonadotrophine chorionique)"
+      },
+      {
+        "abbreviation": "CH",
+        "term": "centre hospitalier ou centésimale hahnemannienne en homéopathie"
+      },
+      {
+        "abbreviation": "CHC",
+        "term": "carcinome hépatocellulaire"
+      },
+      {
+        "abbreviation": "CHD",
+        "term": "centre hospitalier départemental"
+      },
+      {
+        "abbreviation": "CHH",
+        "term": "complexe hypothalamo-hypophysaire"
+      },
+      {
+        "abbreviation": "CHR",
+        "term": "centre hospitalier régional"
+      },
+      {
+        "abbreviation": "CHRU",
+        "term": "centre hospitalier régional universitaire"
+      },
+      {
+        "abbreviation": "CHS",
+        "term": "centre hospitalier spécialisé"
+      },
+      {
+        "abbreviation": "CHSCT",
+        "term": "comité d'hygiène, de sécurité et des conditions de travail"
+      },
+      {
+        "abbreviation": "CHSLD",
+        "term": "centre d'hébergement et de soins de longue durée"
+      },
+      {
+        "abbreviation": "CHU",
+        "term": "centre hospitalier universitaire"
+      },
+      {
+        "abbreviation": "CHX",
+        "term": "Chirurgie"
+      },
+      {
+        "abbreviation": "CI",
+        "term": "cadre infirmier, contre-indication ou chambre implantable"
+      },
+      {
+        "abbreviation": "CIA",
+        "term": "communication inter-auriculaire"
+      },
+      {
+        "abbreviation": "CICR",
+        "term": "Comité international de la Croix-Rouge"
+      },
+      {
+        "abbreviation": "CID",
+        "term": "Carotide interne droite"
+      },
+      {
+        "abbreviation": "CIDDIST",
+        "term": "centre d'information de dépistage et de diagnostic des infections sexuellement transmissibles"
+      },
+      {
+        "abbreviation": "CIK",
+        "term": "chlorure de potassium"
+      },
+      {
+        "abbreviation": "CIM",
+        "term": "classification internationale des maladies"
+      },
+      {
+        "abbreviation": "CIN",
+        "term": "Cervical Intraepithelial Neoplasia (voir colposcopie)"
+      },
+      {
+        "abbreviation": "CIP",
+        "term": "chambre implantable percutanée"
+      },
+      {
+        "abbreviation": "CIRC",
+        "term": "Centre international de recherche sur le cancer"
+      },
+      {
+        "abbreviation": "CISSS",
+        "term": "centre intégré de santé et de services sociaux"
+      },
+      {
+        "abbreviation": "CIUSSS",
+        "term": "centre intégré universitaire de santé et de services sociaux"
+      },
+      {
+        "abbreviation": "CIV",
+        "term": "communication inter-ventriculaire ou cathéter intra-veineux"
+      },
+      {
+        "abbreviation": "CIVD",
+        "term": "coagulation intravasculaire disséminée"
+      },
+      {
+        "abbreviation": "CK",
+        "term": "créatine kinase"
+      },
+      {
+        "abbreviation": "CLAN",
+        "term": "comité de liaison en alimentation et nutrition"
+      },
+      {
+        "abbreviation": "CLCC",
+        "term": "centre de lutte contre le cancer"
+      },
+      {
+        "abbreviation": "CLE",
+        "term": "canal lombaire étroit"
+      },
+      {
+        "abbreviation": "CLIN",
+        "term": "comité de lutte contre les infections nosocomiales"
+      },
+      {
+        "abbreviation": "CLSC",
+        "term": "centre local de services communautaires"
+      },
+      {
+        "abbreviation": "CLU",
+        "term": "cortisol libre urinaire"
+      },
+      {
+        "abbreviation": "CLUD",
+        "term": "comité de lutte contre la douleur"
+      },
+      {
+        "abbreviation": "CMB",
+        "term": "concentration minimale bactéricide"
+      },
+      {
+        "abbreviation": "CMD",
+        "term": "cardiomyopathie dilatée"
+      },
+      {
+        "abbreviation": "CME",
+        "term": "commission médicale d'établissement"
+      },
+      {
+        "abbreviation": "CMH",
+        "term": "cardiomyopathie hypertrophique / hypertensive ou Complexe majeur d'histocompatibilité"
+      },
+      {
+        "abbreviation": "CMI",
+        "term": "cardiologie médicale interventionnelle, cardiomyopathie ischémique ou concentration minimale inhibitrice"
+      },
+      {
+        "abbreviation": "CMO",
+        "term": "cardiomyopathie obstructive"
+      },
+      {
+        "abbreviation": "CMU",
+        "term": "couverture maladie universelle"
+      },
+      {
+        "abbreviation": "CMUc",
+        "term": "couverture maladie universelle complémentaire"
+      },
+      {
+        "abbreviation": "CMT",
+        "term": "cancer médullaire de la thyroïde"
+      },
+      {
+        "abbreviation": "CMV",
+        "term": "cytomégalovirus"
+      },
+      {
+        "abbreviation": "CNA",
+        "term": "colique néphrétique aiguë"
+      },
+      {
+        "abbreviation": "CND",
+        "term": "cannabidiol"
+      },
+      {
+        "abbreviation": "CNO",
+        "term": "compléments nutritionnels oraux"
+      },
+      {
+        "abbreviation": "CNOM",
+        "term": "Conseil national de l'Ordre des médecins"
+      },
+      {
+        "abbreviation": "CO",
+        "term": "contraceptifs oraux ou monoxyde de carbone"
+      },
+      {
+        "abbreviation": "co",
+        "term": "comprimé (médicaments, au Canada)"
+      },
+      {
+        "abbreviation": "COPS",
+        "term": "commission relative à l'organisation de la permanence des soins"
+      },
+      {
+        "abbreviation": "CPA",
+        "term": "concentré plaquettaire d'aphérèse"
+      },
+      {
+        "abbreviation": "CPBIA",
+        "term": "contre-pulsion par ballonnet intra-aortique"
+      },
+      {
+        "abbreviation": "CPC",
+        "term": "cœur pulmonaire chronique"
+      },
+      {
+        "abbreviation": "CPE",
+        "term": "cholangio-pancréatographie endoscopique"
+      },
+      {
+        "abbreviation": "CPIA",
+        "term": "contre-pulsion intra aortique"
+      },
+      {
+        "abbreviation": "CPK",
+        "term": "créatine phosphokinase"
+      },
+      {
+        "abbreviation": "CPRE",
+        "term": "cholangio-pancréatographie rétrograde par voie endoscopique"
+      },
+      {
+        "abbreviation": "CPS",
+        "term": "concentré plaquettaire standard ou carte des Professionnels de Santé"
+      },
+      {
+        "abbreviation": "CPT",
+        "term": "capacité pulmonaire totale"
+      },
+      {
+        "abbreviation": "CRF",
+        "term": "capacité résiduelle fonctionnelle ou centre de réadaptation fonctionnelle"
+      },
+      {
+        "abbreviation": "CRH",
+        "term": "corticotropin releasing hormone (corticolibérine), ou compte-rendu d'hospitalisation"
+      },
+      {
+        "abbreviation": "CRP",
+        "term": "C reactive protein (protéine C réactive)"
+      },
+      {
+        "abbreviation": "CRRA",
+        "term": "centre de réception et de régulation des appels (15 du Samu)"
+      },
+      {
+        "abbreviation": "CRUQ",
+        "term": "Commission des relations avec les usagers et de la qualité de la prise en charge"
+      },
+      {
+        "abbreviation": "CsA",
+        "term": "ciclosporine A"
+      },
+      {
+        "abbreviation": "CS",
+        "term": "Caractère sexuel"
+      },
+      {
+        "abbreviation": "CSH",
+        "term": "cellule souche hématopoïétique"
+      },
+      {
+        "abbreviation": "CSP",
+        "term": "cholangite sclérosante primitive"
+      },
+      {
+        "abbreviation": "CSS",
+        "term": "syndrome de Churg-Strauss ou Conseil supérieur de la santé"
+      },
+      {
+        "abbreviation": "CSSS",
+        "term": "centre de santé et de services sociaux"
+      },
+      {
+        "abbreviation": "CTMSP",
+        "term": "classification par types en milieu de soins et services prolongés"
+      },
+      {
+        "abbreviation": "CU",
+        "term": "contraction utérine ou cuivre"
+      },
+      {
+        "abbreviation": "CV",
+        "term": "cardiovasculaire, charge virale, capacité vitale, champ visuel, corde vocale"
+      },
+      {
+        "abbreviation": "CVC",
+        "term": "circulation veineuse collatérale"
+      },
+      {
+        "abbreviation": "CVF",
+        "term": "capacité vitale forcée / capacité vitale fonctionnelle"
+      },
+      {
+        "abbreviation": "CVL",
+        "term": "capacité vitale lente"
+      },
+      {
+        "abbreviation": "CVO",
+        "term": "crise vaso-occlusive"
+      },
+      {
+        "abbreviation": "CVT",
+        "term": "capacité vitale totale"
+      },
+      {
+        "abbreviation": "CVVH: continuous veno-venous hemofiltration",
+        "term": "voir Hémofiltration"
+      },
+      {
+        "abbreviation": "CX",
+        "term": "artère circonflexe (coronaire)"
+      }
+    ]
+  },
+  {
+    "name": "D",
+    "entries": [
+      {
+        "abbreviation": "D+ / d+",
+        "term": "douleur"
+      },
+      {
+        "abbreviation": "D2T5",
+        "term": "vaccin anti-diphtérique divalent et anti-tétanique pentavalent"
+      },
+      {
+        "abbreviation": "DA",
+        "term": "délivrance artificielle ou dissection aortique"
+      },
+      {
+        "abbreviation": "DAC",
+        "term": "Dispositif d'annonce en cancérologie"
+      },
+      {
+        "abbreviation": "DAD",
+        "term": "Diffuse alveolar damage (en)"
+      },
+      {
+        "abbreviation": "DAE",
+        "term": "défibrillateur automatique externe"
+      },
+      {
+        "abbreviation": "DAI",
+        "term": "défibrillateur automatique implantable"
+      },
+      {
+        "abbreviation": "DAL",
+        "term": "dispositif d'aide à l'allaitement"
+      },
+      {
+        "abbreviation": "DALA",
+        "term": "Déficit androgénique lié à l'âge"
+      },
+      {
+        "abbreviation": "DAM",
+        "term": "dysfonction de l'appareil manducateur"
+      },
+      {
+        "abbreviation": "DAN",
+        "term": "diagnostic anténatal"
+      },
+      {
+        "abbreviation": "DAS",
+        "term": "Débit d'absorption spécifique"
+      },
+      {
+        "abbreviation": "DAT",
+        "term": "diamètre abdominal transverse"
+      },
+      {
+        "abbreviation": "DB1 ou DBI",
+        "term": "diabète de type 1"
+      },
+      {
+        "abbreviation": "DB2 ou DBII",
+        "term": "diabète de type 2"
+      },
+      {
+        "abbreviation": "DBAI",
+        "term": "dermatose bulleuse autoimmune"
+      },
+      {
+        "abbreviation": "D/C",
+        "term": "Discontinué"
+      },
+      {
+        "abbreviation": "DC",
+        "term": "débit cardiaque"
+      },
+      {
+        "abbreviation": "DCaT",
+        "term": "vaccin combiné contre la diphtérie, de type acellulaire contre la coqueluche, et contre le tétanos"
+      },
+      {
+        "abbreviation": "DCI",
+        "term": "dénomination commune internationale"
+      },
+      {
+        "abbreviation": "DCD",
+        "term": "Décédé, ou décompensation cardiaque droite"
+      },
+      {
+        "abbreviation": "DICV",
+        "term": "déficit immunitaire commun variable"
+      },
+      {
+        "abbreviation": "DD",
+        "term": "diagnostic différentiel ou délivrance dirigée ou D-dimères"
+      },
+      {
+        "abbreviation": "DDASS",
+        "term": "direction départementale des Affaires sanitaires et sociales"
+      },
+      {
+        "abbreviation": "DDB",
+        "term": "dilatation des bronches"
+      },
+      {
+        "abbreviation": "DF",
+        "term": "diarrhée fonctionnelle"
+      },
+      {
+        "abbreviation": "DR",
+        "term": "décollement rétinien"
+      },
+      {
+        "abbreviation": "DDR",
+        "term": "date des dernières règles"
+      },
+      {
+        "abbreviation": "DDM",
+        "term": "date des dernières menstruations"
+      },
+      {
+        "abbreviation": "DDx",
+        "term": "diagnostic différentiel"
+      },
+      {
+        "abbreviation": "DEA",
+        "term": "défibrillateur externe automatisé"
+      },
+      {
+        "abbreviation": "DEC",
+        "term": "déshydratation extracellulaire"
+      },
+      {
+        "abbreviation": "DEG",
+        "term": "diminution de l'état général"
+      },
+      {
+        "abbreviation": "DEM",
+        "term": "Débit expiratoire moyen"
+      },
+      {
+        "abbreviation": "DEP",
+        "term": "débit expiratoire de pointe"
+      },
+      {
+        "abbreviation": "DES",
+        "term": "diplôme d'études spécialisées (troisième cycle des études médicales) en France"
+      },
+      {
+        "abbreviation": "DFG",
+        "term": "débit de filtration glomérulaire"
+      },
+      {
+        "abbreviation": "DFT",
+        "term": "démences fronto-temporales"
+      },
+      {
+        "abbreviation": "DFTN",
+        "term": "défaut de fermeture du tube neuronal (Spina bifida)"
+      },
+      {
+        "abbreviation": "DGC",
+        "term": "diagnostic"
+      },
+      {
+        "abbreviation": "DGS",
+        "term": "direction générale de la santé"
+      },
+      {
+        "abbreviation": "DH+ / dh+",
+        "term": "diarrhée"
+      },
+      {
+        "abbreviation": "DHEA",
+        "term": "déhydroépiandrostérone"
+      },
+      {
+        "abbreviation": "DID",
+        "term": "diabète insulinodépendant"
+      },
+      {
+        "abbreviation": "die",
+        "term": "diebus quotidien (médicaments)"
+      },
+      {
+        "abbreviation": "Diag",
+        "term": "diagnostic"
+      },
+      {
+        "abbreviation": "DIM",
+        "term": "département d'information médicale, douleur intervertébrale mineure"
+      },
+      {
+        "abbreviation": "DIU",
+        "term": "dispositif intra-utérin"
+      },
+      {
+        "abbreviation": "DJ",
+        "term": "tube urétéral en double J"
+      },
+      {
+        "abbreviation": "DL",
+        "term": "Dose létale"
+      },
+      {
+        "abbreviation": "DLCO",
+        "term": "diffusion libre de CO2"
+      },
+      {
+        "abbreviation": "DLP",
+        "term": "dyslipidémie ou produit dose x longueur (en)"
+      },
+      {
+        "abbreviation": "DLR",
+        "term": "Douleur"
+      },
+      {
+        "abbreviation": "DM",
+        "term": "dextrométhorphane"
+      },
+      {
+        "abbreviation": "DME",
+        "term": "dose maximale efficace ou dossier médical électronique"
+      },
+      {
+        "abbreviation": "DMJ",
+        "term": "dermatomyosite juvénile"
+      },
+      {
+        "abbreviation": "DMLA",
+        "term": "dégénérescence maculaire liée à l'âge"
+      },
+      {
+        "abbreviation": "DMO",
+        "term": "densité minérale osseuse ; dermatomyosite ossifiante"
+      },
+      {
+        "abbreviation": "DMP",
+        "term": "dossier médical personnel ou dysmyélopoïèse"
+      },
+      {
+        "abbreviation": "DNID",
+        "term": "diabète non insulinodépendant"
+      },
+      {
+        "abbreviation": "DMT",
+        "term": "dose maximale tolérée"
+      },
+      {
+        "abbreviation": "DMV",
+        "term": "défaillance multi-viscérale"
+      },
+      {
+        "abbreviation": "DNV",
+        "term": "dystonie neurovégétative"
+      },
+      {
+        "abbreviation": "DOA",
+        "term": "décompensation oedemato-ascitique"
+      },
+      {
+        "abbreviation": "DOPA",
+        "term": "dihydroxyphénylalanine"
+      },
+      {
+        "abbreviation": "DPC",
+        "term": "duodéno-pancréatectomie céphalique (opération de Whipple)"
+      },
+      {
+        "abbreviation": "DPCA",
+        "term": "dialyse péritonéale continue ambulatoire"
+      },
+      {
+        "abbreviation": "DPE",
+        "term": "dénutrition protéino-énergétique ou duodéno-pancréatectomie élargie"
+      },
+      {
+        "abbreviation": "DPI",
+        "term": "diagnostic préimplantatoire"
+      },
+      {
+        "abbreviation": "DPJ",
+        "term": "directeur de la protection de la jeunesse"
+      },
+      {
+        "abbreviation": "DPN",
+        "term": "diagnostic prénatal"
+      },
+      {
+        "abbreviation": "DPPNI",
+        "term": "décollement prématuré d'un placenta normalement inséré"
+      },
+      {
+        "abbreviation": "DRR",
+        "term": "décollement de la rétine rhegmatogène"
+      },
+      {
+        "abbreviation": "DR",
+        "term": "dernières règles"
+      },
+      {
+        "abbreviation": "DRP",
+        "term": "drainage rhino-pharyngé"
+      },
+      {
+        "abbreviation": "DRS",
+        "term": "douleur rétrosternale"
+      },
+      {
+        "abbreviation": "DS I / DS II",
+        "term": "diabète sucré de type 1 / 2"
+      },
+      {
+        "abbreviation": "DSA",
+        "term": "défibrillateur semi-automatique"
+      },
+      {
+        "abbreviation": "DSC",
+        "term": "débit sanguin cérébral"
+      },
+      {
+        "abbreviation": "DSM",
+        "term": "Diagnostic and Statistical Manual of Mental Disorder (manuel diagnostique et statistique des troubles mentaux)"
+      },
+      {
+        "abbreviation": "DT",
+        "term": "Delirium Tremens ou douleurs thoraciques"
+      },
+      {
+        "abbreviation": "DTA",
+        "term": "démence de type Alzheimer"
+      },
+      {
+        "abbreviation": "DTC",
+        "term": "Doppler transcranien"
+      },
+      {
+        "abbreviation": "DTS",
+        "term": "désorientation temporo-spatiale"
+      },
+      {
+        "abbreviation": "DUG",
+        "term": "diaphragme uro-génital"
+      },
+      {
+        "abbreviation": "DVDA",
+        "term": "dysplasie ventriculaire droite arythmogène"
+      },
+      {
+        "abbreviation": "DVI",
+        "term": "dispositifs veineux implantables"
+      },
+      {
+        "abbreviation": "Dx",
+        "term": "diagnostic"
+      }
+    ]
+  },
+  {
+    "name": "E",
+    "entries": [
+      {
+        "abbreviation": "EAL",
+        "term": "Exploration d'une anomalie lipidique"
+      },
+      {
+        "abbreviation": "EBNA",
+        "term": "Epstein-Barr nuclear antigen (antigène nucléaire d'Epstein-Barr)"
+      },
+      {
+        "abbreviation": "EBO",
+        "term": "endobrachyœsophage"
+      },
+      {
+        "abbreviation": "EBV",
+        "term": "(Epstein-Barr virus) (virus d'Epstein-Barr)"
+      },
+      {
+        "abbreviation": "ECA",
+        "term": "état confusionnel aigu"
+      },
+      {
+        "abbreviation": "ECBC",
+        "term": "examen cytobactériologique des crachats"
+      },
+      {
+        "abbreviation": "ECBU",
+        "term": "examen cytobactériologique des urines"
+      },
+      {
+        "abbreviation": "ECG",
+        "term": "électrocardiogramme"
+      },
+      {
+        "abbreviation": "ECHO virus",
+        "term": "enteric cytopathogenic human orphan virus (virus orphelin humain cytopathogénique entéral)"
+      },
+      {
+        "abbreviation": "ECOG",
+        "term": "échelle de performance"
+      },
+      {
+        "abbreviation": "EDM",
+        "term": "épisode dépressif majeur"
+      },
+      {
+        "abbreviation": "EDRF",
+        "term": "Endothelium-derived relaxing factor, facteur relaxant dérivé de l'endothélium"
+      },
+      {
+        "abbreviation": "EdS",
+        "term": "épisode de soin"
+      },
+      {
+        "abbreviation": "EDTA",
+        "term": "étylène diamine tétra-acétique"
+      },
+      {
+        "abbreviation": "EE",
+        "term": "épreuve d'effort, echoendoscopie"
+      },
+      {
+        "abbreviation": "EEB",
+        "term": "écho-endoscopie basse"
+      },
+      {
+        "abbreviation": "EEG",
+        "term": "électro-encéphalogramme"
+      },
+      {
+        "abbreviation": "EEH",
+        "term": "écho-endoscopie haute"
+      },
+      {
+        "abbreviation": "EER",
+        "term": "épuration extra-rénale"
+      },
+      {
+        "abbreviation": "EES",
+        "term": "entraînement électrosystolique"
+      },
+      {
+        "abbreviation": "EF",
+        "term": "Étude de faisabilité"
+      },
+      {
+        "abbreviation": "EFH",
+        "term": "exploration fonctionnelle hépatique"
+      },
+      {
+        "abbreviation": "EFM",
+        "term": "expérience aux frontières de la mort"
+      },
+      {
+        "abbreviation": "EFR",
+        "term": "épreuve fonctionnelle respiratoire"
+      },
+      {
+        "abbreviation": "EFS",
+        "term": "établissement français du sang"
+      },
+      {
+        "abbreviation": "EGS",
+        "term": "évaluation gériatrique standardisée"
+      },
+      {
+        "abbreviation": "EHC",
+        "term": "expérience de sortie hors du corps"
+      },
+      {
+        "abbreviation": "EHH",
+        "term": "état hyperglycémique hyperosmolaire"
+      },
+      {
+        "abbreviation": "EHPAD",
+        "term": "établissement d'hébergement pour personnes âgées dépendantes"
+      },
+      {
+        "abbreviation": "EI",
+        "term": "endocardite infectieuse ou effet indésirable"
+      },
+      {
+        "abbreviation": "EIG",
+        "term": "espace intercostal gauche"
+      },
+      {
+        "abbreviation": "ELISA",
+        "term": "enzyme-linked immunosorbent assay (dosage d'immunoadsorption par enzyme liée)"
+      },
+      {
+        "abbreviation": "EMA",
+        "term": "état de mal asthmatique"
+      },
+      {
+        "abbreviation": "EME",
+        "term": "état de mal épileptique ou état de mort encéphalique"
+      },
+      {
+        "abbreviation": "EMG",
+        "term": "électromyogramme"
+      },
+      {
+        "abbreviation": "EMI",
+        "term": "Expérience de mort imminente"
+      },
+      {
+        "abbreviation": "EMU",
+        "term": "examen microscopique des urines"
+      },
+      {
+        "abbreviation": "ENPI",
+        "term": "Énurésie nocturne primaire isolée"
+      },
+      {
+        "abbreviation": "EO",
+        "term": "Étude d'opportunité ou emballage original (le plus petit)"
+      },
+      {
+        "abbreviation": "EOH",
+        "term": "équipe opérationnelle d'hygiène hospitalière"
+      },
+      {
+        "abbreviation": "EP",
+        "term": "embolie pulmonaire ou échange plasmatique ou épanchement pleural"
+      },
+      {
+        "abbreviation": "EPR (Electronic patient record)",
+        "term": "dossier patient électronique"
+      },
+      {
+        "abbreviation": "EPO",
+        "term": "érythropoïétine"
+      },
+      {
+        "abbreviation": "EPP",
+        "term": "électrophorèse des protéines plasmatiques"
+      },
+      {
+        "abbreviation": "EPS",
+        "term": "électrophorèse des protéines sériques ou examen parasitologique des selles"
+      },
+      {
+        "abbreviation": "EPU",
+        "term": "électrophorèse des protéines urinaires"
+      },
+      {
+        "abbreviation": "EPV",
+        "term": "espace périvitellin"
+      },
+      {
+        "abbreviation": "ERV",
+        "term": "entérocoque résistant à la vancomycine"
+      },
+      {
+        "abbreviation": "ESA",
+        "term": "extrasystole auriculaire"
+      },
+      {
+        "abbreviation": "ESBL",
+        "term": "bactéries productrices de bétalactamase à spectre élargi"
+      },
+      {
+        "abbreviation": "ESPT",
+        "term": "état de stress post-traumatique"
+      },
+      {
+        "abbreviation": "ESS",
+        "term": "extrasystole supra ventriculaire"
+      },
+      {
+        "abbreviation": "ESV",
+        "term": "extrasystole ventriculaire"
+      },
+      {
+        "abbreviation": "EtCO2 (end tidal CO2)",
+        "term": "fraction expirée en CO2"
+      },
+      {
+        "abbreviation": "ETO",
+        "term": "échocardiographie trans-œsophagienne"
+      },
+      {
+        "abbreviation": "ETP",
+        "term": "éducation thérapeutique du patient"
+      },
+      {
+        "abbreviation": "ETT",
+        "term": "échocardiographie trans thoracique"
+      },
+      {
+        "abbreviation": "EVA",
+        "term": "évaluation visuelle analogique ou échelle visuelle analogique"
+      },
+      {
+        "abbreviation": "EVC",
+        "term": "état végétatif chronique"
+      },
+      {
+        "abbreviation": "EVP",
+        "term": "état végétatif persistant"
+      }
+    ]
+  },
+  {
+    "name": "F",
+    "entries": [
+      {
+        "abbreviation": "F",
+        "term": "femme"
+      },
+      {
+        "abbreviation": "FA",
+        "term": "fibrillation auriculaire / fibrillation atriale"
+      },
+      {
+        "abbreviation": "FAN",
+        "term": "facteur antinucléaire"
+      },
+      {
+        "abbreviation": "FAP",
+        "term": "fibrillation auriculaire paroxystique"
+      },
+      {
+        "abbreviation": "FAV",
+        "term": "fistule artério-veineuse"
+      },
+      {
+        "abbreviation": "FC",
+        "term": "fréquence cardiaque"
+      },
+      {
+        "abbreviation": "FCS",
+        "term": "fausse couche spontanée"
+      },
+      {
+        "abbreviation": "FCU",
+        "term": "frottis cervico-utérien"
+      },
+      {
+        "abbreviation": "FCV",
+        "term": "Frottis cervico-vaginal"
+      },
+      {
+        "abbreviation": "FD",
+        "term": "facteur déclenchant"
+      },
+      {
+        "abbreviation": "FdR",
+        "term": "facteur de risque"
+      },
+      {
+        "abbreviation": "FdRCV",
+        "term": "facteurs de risque cardio-vasculaires"
+      },
+      {
+        "abbreviation": "FE",
+        "term": "fraction d'éjection"
+      },
+      {
+        "abbreviation": "FEVG, FEVD",
+        "term": "fraction d'éjection du ventricule gauche (ou droit)"
+      },
+      {
+        "abbreviation": "FF",
+        "term": "facteur favorisant"
+      },
+      {
+        "abbreviation": "FFI (FFE)",
+        "term": "faisant fonction d'interne (d'externe)"
+      },
+      {
+        "abbreviation": "FFP",
+        "term": "fresh frozen plasma (plasma frais congelé)"
+      },
+      {
+        "abbreviation": "FH",
+        "term": "Flèche hépatique"
+      },
+      {
+        "abbreviation": "FHV",
+        "term": "fièvre hémorragique virale"
+      },
+      {
+        "abbreviation": "FiO2",
+        "term": "fraction inspirée en oxygène"
+      },
+      {
+        "abbreviation": "FID",
+        "term": "fosse iliaque droite"
+      },
+      {
+        "abbreviation": "FIG",
+        "term": "fosse iliaque gauche"
+      },
+      {
+        "abbreviation": "FIP",
+        "term": "Familial Interstitial Pneumonia (en)"
+      },
+      {
+        "abbreviation": "FIV",
+        "term": "fécondation in vitro"
+      },
+      {
+        "abbreviation": "FIVETE",
+        "term": "fécondation in vitro et transfert d'embryon"
+      },
+      {
+        "abbreviation": "FK",
+        "term": "fibrose kystique"
+      },
+      {
+        "abbreviation": "FLC",
+        "term": "facteur de libération de la corticotropine"
+      },
+      {
+        "abbreviation": "FMC",
+        "term": "formation médicale continue"
+      },
+      {
+        "abbreviation": "FML",
+        "term": "fibre musculaire lisse"
+      },
+      {
+        "abbreviation": "FNH",
+        "term": "facteurs naturels d'hydratation"
+      },
+      {
+        "abbreviation": "FO",
+        "term": "fond d'œil ou foramen ovale (trou de Botal)"
+      },
+      {
+        "abbreviation": "FOGD",
+        "term": "fibroscopie œso-gastro-duodénale"
+      },
+      {
+        "abbreviation": "FOP",
+        "term": "foramen ovale perméable"
+      },
+      {
+        "abbreviation": "FOSO",
+        "term": "feuille d'ouverture de salle d'opération"
+      },
+      {
+        "abbreviation": "FQAP",
+        "term": "fluoroquinolones anti-pneumococciques"
+      },
+      {
+        "abbreviation": "FR",
+        "term": "facteur de risque ou facteur rhumatoïde ou fréquence respiratoire"
+      },
+      {
+        "abbreviation": "FSC",
+        "term": "formule sanguine complète ou fausse couche spontanée"
+      },
+      {
+        "abbreviation": "FSE",
+        "term": "feuille de soins électronique"
+      },
+      {
+        "abbreviation": "FSH",
+        "term": "follicle stimulating hormone (hormone folliculo-stimulante)"
+      },
+      {
+        "abbreviation": "FSP",
+        "term": "feuille de soins papier"
+      },
+      {
+        "abbreviation": "FSR",
+        "term": "flux sanguin rénal"
+      },
+      {
+        "abbreviation": "FV",
+        "term": "fibrillation ventriculaire"
+      },
+      {
+        "abbreviation": "FX",
+        "term": "fracture"
+      }
+    ]
+  },
+  {
+    "name": "G",
+    "entries": [
+      {
+        "abbreviation": "GxPx",
+        "term": "gravida x, para x (ou x est un chiffre correspondant après le \"G\" au(x) nombre(s) de grossesses, et le \"P\", le nombre d'accouchement(s) après 24 semaines. (G2P2 signifiant par exemple 2 grossesses ayant abouti à 2 accouchements)."
+      },
+      {
+        "abbreviation": "GABA (gamma-aminobutiric acid)",
+        "term": "acide gamma-aminobutyrique"
+      },
+      {
+        "abbreviation": "GAFA",
+        "term": "glaucome aigu par fermeture de l'angle"
+      },
+      {
+        "abbreviation": "GAJ",
+        "term": "glycémie à jeun"
+      },
+      {
+        "abbreviation": "GAMF",
+        "term": "guichet d'accès aux médecins de famille"
+      },
+      {
+        "abbreviation": "GB",
+        "term": "globule blanc"
+      },
+      {
+        "abbreviation": "GCAO",
+        "term": "glaucome chronique à angle ouvert"
+      },
+      {
+        "abbreviation": "GCS (Glasgow coma scale)",
+        "term": "score de Glasgow"
+      },
+      {
+        "abbreviation": "GDS",
+        "term": "gaz du sang"
+      },
+      {
+        "abbreviation": "GDSA",
+        "term": "gaz du sang artériel"
+      },
+      {
+        "abbreviation": "GEA",
+        "term": "gastro-entérite aiguë"
+      },
+      {
+        "abbreviation": "GEI",
+        "term": "gastro-entérite infantile"
+      },
+      {
+        "abbreviation": "GEM",
+        "term": "glomérulonéphrite extra-membraneuse"
+      },
+      {
+        "abbreviation": "GEU",
+        "term": "grossesse extra-utérine"
+      },
+      {
+        "abbreviation": "GFA",
+        "term": "glaucome en fermeture d'angle"
+      },
+      {
+        "abbreviation": "GGT ou γGT",
+        "term": "Gamma glutamyl transpeptidase"
+      },
+      {
+        "abbreviation": "GH",
+        "term": "growth hormone (hormone somatotrope)"
+      },
+      {
+        "abbreviation": "GH-RH",
+        "term": "GH-releasing hormone (hormone activatrice de l'hormone de croissance)"
+      },
+      {
+        "abbreviation": "GHB",
+        "term": "gammahydroxy butyrate ou acide gamma-hydroxybutyrique (drogue du viol)"
+      },
+      {
+        "abbreviation": "GHM",
+        "term": "groupe homogène de malade"
+      },
+      {
+        "abbreviation": "GHS",
+        "term": "groupe homogène de séjour"
+      },
+      {
+        "abbreviation": "GIU",
+        "term": "grossesse intra-utérine"
+      },
+      {
+        "abbreviation": "GMC",
+        "term": "gammapathie monoclonale"
+      },
+      {
+        "abbreviation": "GMF",
+        "term": "groupe de médecine familiale"
+      },
+      {
+        "abbreviation": "GMP",
+        "term": "Guanosine monophosphate"
+      },
+      {
+        "abbreviation": "GN",
+        "term": "glomérulonéphrite"
+      },
+      {
+        "abbreviation": "GNA",
+        "term": "glomérulonéphrite aigüe"
+      },
+      {
+        "abbreviation": "GNEM",
+        "term": "glomérulonéphrite extra-membraneuse"
+      },
+      {
+        "abbreviation": "GNMP",
+        "term": "glomérunonéphrite membrano-proliférative"
+      },
+      {
+        "abbreviation": "GNRP",
+        "term": "glomérulonéphrite rapidement progressive"
+      },
+      {
+        "abbreviation": "GP",
+        "term": "glycémie plasmatique"
+      },
+      {
+        "abbreviation": "GPA",
+        "term": "granulomatose avec polyangéite ou Gestation pour autrui"
+      },
+      {
+        "abbreviation": "GPE",
+        "term": "gastrostomie percutanée endoscopique"
+      },
+      {
+        "abbreviation": "GPS",
+        "term": "gangrène périnéo-scrotale"
+      },
+      {
+        "abbreviation": "GR",
+        "term": "globule rouge"
+      },
+      {
+        "abbreviation": "GRP",
+        "term": "Gastrin releasing peptide (bombésine)"
+      },
+      {
+        "abbreviation": "GVH",
+        "term": "graft versus host (réaction du greffon contre l'hôte)"
+      }
+    ]
+  },
+  {
+    "name": "H",
+    "entries": [
+      {
+        "abbreviation": "H",
+        "term": "homme"
+      },
+      {
+        "abbreviation": "HAA",
+        "term": "hémoculture aero-anaérobie"
+      },
+      {
+        "abbreviation": "HAA",
+        "term": "Hépatite Alcoolique Aigue"
+      },
+      {
+        "abbreviation": "HAD",
+        "term": "hospitalisation à domicile ou hypertrophie atriale droite"
+      },
+      {
+        "abbreviation": "HAS",
+        "term": "Haute Autorité de santé"
+      },
+      {
+        "abbreviation": "Hb",
+        "term": "hémoglobine"
+      },
+      {
+        "abbreviation": "HbA1C",
+        "term": "hémoglobine glyquée"
+      },
+      {
+        "abbreviation": "HBAG",
+        "term": "hémi-bloc antérieur gauche"
+      },
+      {
+        "abbreviation": "HbO2",
+        "term": "oxyhémoglobine"
+      },
+      {
+        "abbreviation": "HBOT",
+        "term": "hyperbaric Oxygen Therapy (Médecine hyperbare)"
+      },
+      {
+        "abbreviation": "HBP",
+        "term": "hypertrophie bénigne de la prostate"
+      },
+      {
+        "abbreviation": "HBPM",
+        "term": "héparine de bas poids moléculaire"
+      },
+      {
+        "abbreviation": "HBPG",
+        "term": "hémi-bloc postérieur gauche"
+      },
+      {
+        "abbreviation": "HC",
+        "term": "hypochondre"
+      },
+      {
+        "abbreviation": "HC",
+        "term": "hémoculture, hospitalisation complète ou hypercalorique"
+      },
+      {
+        "abbreviation": "HCG",
+        "term": "human chorionic gonadotropin (hormone gonadotrophine chorionique)t"
+      },
+      {
+        "abbreviation": "HCS",
+        "term": "hyperplasie congénitale des surrénales"
+      },
+      {
+        "abbreviation": "HD",
+        "term": "hernie discale, hémorragie digestive ou hippocratisme digital"
+      },
+      {
+        "abbreviation": "HDJ",
+        "term": "hôpital de jour"
+      },
+      {
+        "abbreviation": "HDH",
+        "term": "histoire de l'hospitalisation ou hémorragie digestive haute"
+      },
+      {
+        "abbreviation": "HDL",
+        "term": "high density lipoprotein (lipoprotéine de haute densité)"
+      },
+      {
+        "abbreviation": "HDT",
+        "term": "hospitalisation à la demande d'un tiers"
+      },
+      {
+        "abbreviation": "HED",
+        "term": "hématome extra-dural ou hématome épi-dural"
+      },
+      {
+        "abbreviation": "HELLP",
+        "term": "hemolysis, elevated liver enzymes, low platelets (syndrome d'hémolyse-hépatocytolyse-thrombopénie)"
+      },
+      {
+        "abbreviation": "HdM ou HDLM",
+        "term": "histoire de la maladie"
+      },
+      {
+        "abbreviation": "HGPO",
+        "term": "hyperglycémie provoquée par voie orale"
+      },
+      {
+        "abbreviation": "HGE",
+        "term": "hépato-gastro-enterologie"
+      },
+      {
+        "abbreviation": "HGT",
+        "term": "hémoglucotest"
+      },
+      {
+        "abbreviation": "HH",
+        "term": "histoire de l'hospitalisation ou hémorragie"
+      },
+      {
+        "abbreviation": "HHV",
+        "term": "human herpesvirus"
+      },
+      {
+        "abbreviation": "HIB",
+        "term": "hernie inguinale bilatérale"
+      },
+      {
+        "abbreviation": "HIC",
+        "term": "Hypertension intra-crânienne"
+      },
+      {
+        "abbreviation": "HIDA",
+        "term": "Hepatobiliary iminodiacetic acid (en) (scintigraphie hépatobiliaire avec acide iminodiacétique)"
+      },
+      {
+        "abbreviation": "HIP",
+        "term": "Hemorragie intra-parenchymateuse"
+      },
+      {
+        "abbreviation": "HIS",
+        "term": "Hybridation in situ"
+      },
+      {
+        "abbreviation": "HIV",
+        "term": "human immunodeficiency virus (virus de l'immunodéficience humaine) ou hémorragie intravitréenne"
+      },
+      {
+        "abbreviation": "HJ",
+        "term": "hôpital de jour"
+      },
+      {
+        "abbreviation": "HK",
+        "term": "hypokinésie (maladie cardiaque)"
+      },
+      {
+        "abbreviation": "HLA",
+        "term": "human leucocyte antigen (antigène de leucocyte humain)"
+      },
+      {
+        "abbreviation": "HLC",
+        "term": "hyperleucocytose"
+      },
+      {
+        "abbreviation": "HLH",
+        "term": "hémianopsie latérale homonyme"
+      },
+      {
+        "abbreviation": "HLM",
+        "term": "hématies et leucocytes par minute"
+      },
+      {
+        "abbreviation": "HLPNN",
+        "term": "Hyperleucocytose à polynucléaires neutrophiles"
+      },
+      {
+        "abbreviation": "HM",
+        "term": "hôpital militaire"
+      },
+      {
+        "abbreviation": "HMG",
+        "term": "hépatomégalie"
+      },
+      {
+        "abbreviation": "HMA",
+        "term": "histoire de la maladie actuelle"
+      },
+      {
+        "abbreviation": "HNF",
+        "term": "Héparine non fractionnée"
+      },
+      {
+        "abbreviation": "HNPCC",
+        "term": "hereditary non-polyposis colorectal cancer (cancer colorectal héréditaire sans polypose)"
+      },
+      {
+        "abbreviation": "HO",
+        "term": "hospitalisation d'office ou hospitalisé"
+      },
+      {
+        "abbreviation": "HP",
+        "term": "hyperprotidique"
+      },
+      {
+        "abbreviation": "HPM",
+        "term": "hépatomégalie"
+      },
+      {
+        "abbreviation": "HPN",
+        "term": "hydrocéphalie à pression normale ou hémoglobinurie paroxystique nocturne"
+      },
+      {
+        "abbreviation": "HPRIM",
+        "term": "Harmoniser et PRomouvoir l'Informatique Médicale"
+      },
+      {
+        "abbreviation": "HPP",
+        "term": "Hypertension pulmonaire primitive (renommée en HTAP) ou hémorragie du post-partum"
+      },
+      {
+        "abbreviation": "HPV",
+        "term": "human papillomavirus (papillomavirus humain)"
+      },
+      {
+        "abbreviation": "HRB",
+        "term": "Hyperréactivité bronchique"
+      },
+      {
+        "abbreviation": "HRP",
+        "term": "hématome rétro-placentaire"
+      },
+      {
+        "abbreviation": "HRT",
+        "term": "hystérectomie radicale totale"
+      },
+      {
+        "abbreviation": "HSA",
+        "term": "hémorragie sous-arachnoïdienne"
+      },
+      {
+        "abbreviation": "HSC",
+        "term": "hypersensibilité sino-carotidienne"
+      },
+      {
+        "abbreviation": "HSD",
+        "term": "hématome sous-dural"
+      },
+      {
+        "abbreviation": "HSF",
+        "term": "hyalinose segmentaire et focale"
+      },
+      {
+        "abbreviation": "HSM",
+        "term": "hépato-spléno-mégalie"
+      },
+      {
+        "abbreviation": "Htc",
+        "term": "hématocrite"
+      },
+      {
+        "abbreviation": "HTA",
+        "term": "hypertension artérielle"
+      },
+      {
+        "abbreviation": "HTAP",
+        "term": "Hypertension artérielle pulmonaire"
+      },
+      {
+        "abbreviation": "HTIC",
+        "term": "hypertension intra-crânienne"
+      },
+      {
+        "abbreviation": "HTLV",
+        "term": "human T cell leukemia/lymphoma virus (virus humain T lymphotropique)"
+      },
+      {
+        "abbreviation": "HTO",
+        "term": "hypertension oculaire ou hypotension orthostatique"
+      },
+      {
+        "abbreviation": "HTP",
+        "term": "hypertension portale"
+      },
+      {
+        "abbreviation": "HU",
+        "term": "hématurie ou hauteur utérine"
+      },
+      {
+        "abbreviation": "HVG",
+        "term": "hypertrophie ventriculaire gauche"
+      }
+    ]
+  },
+  {
+    "name": "I",
+    "entries": [
+      {
+        "abbreviation": "IA",
+        "term": "insuffisance aortique (voir aussi Valvulopathie cardiaque) ou intra-artérielle"
+      },
+      {
+        "abbreviation": "IAA",
+        "term": "intoxication alcoolique aiguë"
+      },
+      {
+        "abbreviation": "IAD",
+        "term": "insémination artificielle par donneur"
+      },
+      {
+        "abbreviation": "IADE",
+        "term": "infirmier(-ière) d'anesthésie diplômé(e) d'État"
+      },
+      {
+        "abbreviation": "IAMI",
+        "term": "insuffisance artérielle du membre inférieur"
+      },
+      {
+        "abbreviation": "IAO",
+        "term": "infirmier d'accueil et orientation (aux urgences) ou insuffisance aortique"
+      },
+      {
+        "abbreviation": "IAT",
+        "term": "ischémie aigüe transitoire"
+      },
+      {
+        "abbreviation": "IBI",
+        "term": "infection bactérienne invasive"
+      },
+      {
+        "abbreviation": "IBS",
+        "term": "infection bactérienne septicémique"
+      },
+      {
+        "abbreviation": "IBODE",
+        "term": "infirmier de bloc opératoire diplômé d'État"
+      },
+      {
+        "abbreviation": "IC",
+        "term": "insuffisance cardiaque, coronaire ou index cardiaque"
+      },
+      {
+        "abbreviation": "ICD",
+        "term": "insensibilité congénitale à la douleur, insuffisance cardiaque droite"
+      },
+      {
+        "abbreviation": "ICG",
+        "term": "insuffisance cardiaque gauche"
+      },
+      {
+        "abbreviation": "ICP",
+        "term": "intervention coronarienne percutanée"
+      },
+      {
+        "abbreviation": "ICALIN",
+        "term": "indicateur composite des activités de lutte contre les infections nosocomiales"
+      },
+      {
+        "abbreviation": "ICT",
+        "term": "Ischémie cérébrale transitoire ou index cardiothoracique"
+      },
+      {
+        "abbreviation": "ID (in diem)",
+        "term": "pendant la journée (médicament) ou injection intradermique"
+      },
+      {
+        "abbreviation": "IDE",
+        "term": "infirmier diplômé d'État"
+      },
+      {
+        "abbreviation": "IDM",
+        "term": "infarctus du myocarde"
+      },
+      {
+        "abbreviation": "IDR",
+        "term": "intradermoréaction"
+      },
+      {
+        "abbreviation": "IEC",
+        "term": "inhibiteur de l'enzyme de conversion"
+      },
+      {
+        "abbreviation": "IECA",
+        "term": "inhibiteur de l'enzyme de conversion de l'angiotensine"
+      },
+      {
+        "abbreviation": "IEPP",
+        "term": "immuno-électrophorèse des protéines plasmatiques"
+      },
+      {
+        "abbreviation": "IEPS",
+        "term": "immuno-électrophorèse des protides sanguins"
+      },
+      {
+        "abbreviation": "IEPU",
+        "term": "immuno-électrophorèse des urines"
+      },
+      {
+        "abbreviation": "IET",
+        "term": "intubation endotrachéale"
+      },
+      {
+        "abbreviation": "IFAS",
+        "term": "Institut de formation d'aide soignant"
+      },
+      {
+        "abbreviation": "IFD",
+        "term": "immunofluorescence directe"
+      },
+      {
+        "abbreviation": "IFI",
+        "term": "immunofluorescence indirecte"
+      },
+      {
+        "abbreviation": "IFMK",
+        "term": "Institut de formation en massa-kinésithérapie"
+      },
+      {
+        "abbreviation": "IFSI",
+        "term": "Institut de formation en soins infirmier"
+      },
+      {
+        "abbreviation": "IG",
+        "term": "index glycémique"
+      },
+      {
+        "abbreviation": "Ig",
+        "term": "immunoglobuline"
+      },
+      {
+        "abbreviation": "IGF",
+        "term": "insulin-like growth factor (somatomédine)"
+      },
+      {
+        "abbreviation": "IHP",
+        "term": "interne des hôpitaux de Paris (AIHP : ancien interne des hôpitaux de Paris)"
+      },
+      {
+        "abbreviation": "IL",
+        "term": "interleukine"
+      },
+      {
+        "abbreviation": "IM",
+        "term": "insuffisance mitrale, injection intramusculaire ou infarctus du myocarde"
+      },
+      {
+        "abbreviation": "IMAO",
+        "term": "inhibiteur des monoamine oxydases"
+      },
+      {
+        "abbreviation": "IMC",
+        "term": "infirmité motrice cérébrale ou indice de masse corporelle"
+      },
+      {
+        "abbreviation": "IME",
+        "term": "Institut médico-éducatif"
+      },
+      {
+        "abbreviation": "IMG",
+        "term": "interruption médicale de grossesse"
+      },
+      {
+        "abbreviation": "IMNQ",
+        "term": "infarctus du myocarde sans onde Q"
+      },
+      {
+        "abbreviation": "IMQ",
+        "term": "infarctus du myocarde avec onde Q"
+      },
+      {
+        "abbreviation": "IMS",
+        "term": "ischémie myocardique silencieuse"
+      },
+      {
+        "abbreviation": "IMV",
+        "term": "intoxication médicamenteuse volontaire"
+      },
+      {
+        "abbreviation": "IN",
+        "term": "infection nosocomiale"
+      },
+      {
+        "abbreviation": "INH",
+        "term": "izoniazide"
+      },
+      {
+        "abbreviation": "INR",
+        "term": "international normalized ratio (rapport normalisé international)"
+      },
+      {
+        "abbreviation": "InVS",
+        "term": "Institut de veille sanitaire"
+      },
+      {
+        "abbreviation": "IO",
+        "term": "voie intra-osseuse"
+      },
+      {
+        "abbreviation": "IOT",
+        "term": "intubation oro-trachéale"
+      },
+      {
+        "abbreviation": "IP",
+        "term": "index de pulsatilité (sonographie Doppler) ou injection intrapéritonéale"
+      },
+      {
+        "abbreviation": "IPD",
+        "term": "(articulation) interphalangienne distale"
+      },
+      {
+        "abbreviation": "IPe",
+        "term": "insuffisance veineuse des perforantes ou insuffisance pancréatique exocrine"
+      },
+      {
+        "abbreviation": "IPP",
+        "term": "inhibiteur de la pompe à protons ou (articulation) interphalangienne proximale"
+      },
+      {
+        "abbreviation": "IPS",
+        "term": "indice de pression systolique ou infirmier praticien spécialisé"
+      },
+      {
+        "abbreviation": "IPSPL",
+        "term": "infirmier praticien spécialisé en première ligne"
+      },
+      {
+        "abbreviation": "IR",
+        "term": "injection intrarachidienne"
+      },
+      {
+        "abbreviation": "IRA",
+        "term": "insuffisance rénale aiguë"
+      },
+      {
+        "abbreviation": "IRAF",
+        "term": "insuffisance rénale aiguë fonctionnelle"
+      },
+      {
+        "abbreviation": "IRC",
+        "term": "insuffisance rénale chronique ou insuffisance respiratoire chronique"
+      },
+      {
+        "abbreviation": "IRCT",
+        "term": "insuffisance rénale chronique terminale"
+      },
+      {
+        "abbreviation": "IRFSS",
+        "term": "institut régional de formation sanitaire et social (nouveau nom des IFSI)"
+      },
+      {
+        "abbreviation": "IRM",
+        "term": "imagerie par résonance magnétique"
+      },
+      {
+        "abbreviation": "IRS",
+        "term": "inhibiteur de la recapture de la sérotonine"
+      },
+      {
+        "abbreviation": "ISA",
+        "term": "insuffisance surrénalienne aiguë"
+      },
+      {
+        "abbreviation": "ISL",
+        "term": "insuffisance surrénalienne lente"
+      },
+      {
+        "abbreviation": "ISLA",
+        "term": "Infection spontanée du liquide d'ascite"
+      },
+      {
+        "abbreviation": "ISO",
+        "term": "infection du site opératoire"
+      },
+      {
+        "abbreviation": "IST",
+        "term": "infection sexuellement transmissible"
+      },
+      {
+        "abbreviation": "IT",
+        "term": "insuffisance tricuspide"
+      },
+      {
+        "abbreviation": "ITT",
+        "term": "incapacité temporaire totale ou intent to treat (intention de traiter)"
+      },
+      {
+        "abbreviation": "IU",
+        "term": "infection urinaire"
+      },
+      {
+        "abbreviation": "IV",
+        "term": "intraveineuse"
+      },
+      {
+        "abbreviation": "IVA",
+        "term": "artère interventriculaire antérieure (artère coronaire)"
+      },
+      {
+        "abbreviation": "IVC",
+        "term": "insuffisance veineuse chronique"
+      },
+      {
+        "abbreviation": "IVD",
+        "term": "insuffisance ventriculaire droite ou intraveineuse directe"
+      },
+      {
+        "abbreviation": "IVG",
+        "term": "insuffisance ventriculaire gauche ou interruption volontaire de grossesse"
+      },
+      {
+        "abbreviation": "IVM",
+        "term": "intubation-ventilation mécanique"
+      },
+      {
+        "abbreviation": "IVMI",
+        "term": "Insuffisance veineuse des membres inférieurs"
+      },
+      {
+        "abbreviation": "IVP",
+        "term": "interventriculaire postérieure (artère coronaire) ou insuffisance veineuse profonde"
+      },
+      {
+        "abbreviation": "IVRS",
+        "term": "infection des voies respiratoires supérieures"
+      },
+      {
+        "abbreviation": "IVS",
+        "term": "insuffisance veineuse superficielle"
+      },
+      {
+        "abbreviation": "IVSE",
+        "term": "intraveineuse seringue électrique"
+      },
+      {
+        "abbreviation": "IVT",
+        "term": "injection intra-vitréenne"
+      }
+    ]
+  },
+  {
+    "name": "J",
+    "entries": []
+  },
+  {
+    "name": "K",
+    "entries": [
+      {
+        "abbreviation": "K",
+        "term": "cancer, carcinome ou potassium"
+      },
+      {
+        "abbreviation": "Ka",
+        "term": "kaliémie"
+      },
+      {
+        "abbreviation": "KBP",
+        "term": "cancer bronchopulmonaire"
+      },
+      {
+        "abbreviation": "KOD",
+        "term": "kyste de l'ovaire droite"
+      },
+      {
+        "abbreviation": "KPS",
+        "term": "kératite ponctuée superficielle"
+      },
+      {
+        "abbreviation": "KT",
+        "term": "cathéter"
+      },
+      {
+        "abbreviation": "KTC",
+        "term": "cathéter central"
+      }
+    ]
+  },
+  {
+    "name": "L",
+    "entries": [
+      {
+        "abbreviation": "LAF",
+        "term": "Lampe à fente"
+      },
+      {
+        "abbreviation": "LAL",
+        "term": "leucémie aiguë lymphoblastique"
+      },
+      {
+        "abbreviation": "LAM",
+        "term": "leucémie aiguë myéloblastique ou liquide amniotique méconial"
+      },
+      {
+        "abbreviation": "LAP",
+        "term": "lésions ano-périnéales, notamment lors de maladie inflammatoire chronique de l'intestin (MICI)"
+      },
+      {
+        "abbreviation": "LAT",
+        "term": "limitation ou arrêt thérapeutiques ou liquide amniotique teinté"
+      },
+      {
+        "abbreviation": "LBA",
+        "term": "liquide broncho-alvéolaire"
+      },
+      {
+        "abbreviation": "LBNP",
+        "term": "lower body negative pressure, pression négative des membres inférieurs"
+      },
+      {
+        "abbreviation": "LCR",
+        "term": "liquide céphalo-rachidien"
+      },
+      {
+        "abbreviation": "LCS",
+        "term": "liquide cérébro-spinal"
+      },
+      {
+        "abbreviation": "LDH",
+        "term": "lactate déshydrogénase"
+      },
+      {
+        "abbreviation": "LDL",
+        "term": "low density lipoprotein (lipoprotéine de basse densité)"
+      },
+      {
+        "abbreviation": "LEAD",
+        "term": "lupus érythémateux aigu disséminé"
+      },
+      {
+        "abbreviation": "LED",
+        "term": "Lupus érythémateux disséminé"
+      },
+      {
+        "abbreviation": "LGM",
+        "term": "lésions glomérulaires minimes"
+      },
+      {
+        "abbreviation": "LGC",
+        "term": "logiciel de gestion de cabinet"
+      },
+      {
+        "abbreviation": "LH",
+        "term": "luteinizing hormone (gonadostimuline)"
+      },
+      {
+        "abbreviation": "LH-RH",
+        "term": "luteinizing hormone releasing hormone (gonadolibérine)"
+      },
+      {
+        "abbreviation": "LID",
+        "term": "lobe inférieur droit"
+      },
+      {
+        "abbreviation": "LIG",
+        "term": "lobe inférieur gauche"
+      },
+      {
+        "abbreviation": "LIN",
+        "term": "lutte contre les infections nosocomiales"
+      },
+      {
+        "abbreviation": "LLC",
+        "term": "leucémie lymphoïde chronique"
+      },
+      {
+        "abbreviation": "LMC",
+        "term": "leucémie myéloïde chronique"
+      },
+      {
+        "abbreviation": "LMD",
+        "term": "lobe moyen droit (poumons)"
+      },
+      {
+        "abbreviation": "LMG",
+        "term": "lobe moyen gauche (poumons) ; NB : le lobe moyen gauche n'existe que lorsque le cœur est à droite dans le situs inversus (auquel cas le poumon droit ne comporte que deux lobes)."
+      },
+      {
+        "abbreviation": "LMNH",
+        "term": "lymphome malin non hodgkinien"
+      },
+      {
+        "abbreviation": "LNH",
+        "term": "lymphome non hodgkinien"
+      },
+      {
+        "abbreviation": "LP",
+        "term": "libération prolongée (médicament)"
+      },
+      {
+        "abbreviation": "LR",
+        "term": "solution de lactate de Ringer"
+      },
+      {
+        "abbreviation": "LS",
+        "term": "(repos ou maintien au) lit strict"
+      },
+      {
+        "abbreviation": "LSD",
+        "term": "lobe supérieur droit (poumons)"
+      },
+      {
+        "abbreviation": "LSG",
+        "term": "lobe supérieur gauche (poumons)"
+      },
+      {
+        "abbreviation": "LSE",
+        "term": "(repos ou maintien au) lit strict élargi"
+      },
+      {
+        "abbreviation": "LVA",
+        "term": "libération des voies aériennes"
+      }
+    ]
+  },
+  {
+    "name": "M",
+    "entries": [
+      {
+        "abbreviation": "MA",
+        "term": "maladie d'Alzheimer"
+      },
+      {
+        "abbreviation": "MAB",
+        "term": "maladie affective bipolaire"
+      },
+      {
+        "abbreviation": "MADD",
+        "term": "mixed anxiety–depressive disorder (en)"
+      },
+      {
+        "abbreviation": "MAI",
+        "term": "maladie auto-immune"
+      },
+      {
+        "abbreviation": "MAE",
+        "term": "médicament anti-épileptique"
+      },
+      {
+        "abbreviation": "MALT",
+        "term": "mucous associated lymphoid tissue (tissu lymphoïde associé aux muqueuses)"
+      },
+      {
+        "abbreviation": "MAP",
+        "term": "menace d'accouchement prématuré"
+      },
+      {
+        "abbreviation": "MAPA",
+        "term": "monitorage ambulatoire de la pression artérielle"
+      },
+      {
+        "abbreviation": "MAR",
+        "term": "médecin anesthésiste-réanimateur"
+      },
+      {
+        "abbreviation": "MAT",
+        "term": "microangiopathie thrombotique"
+      },
+      {
+        "abbreviation": "MAV",
+        "term": "malformation artério-veineuse ou mesure de l'acuité visuelle"
+      },
+      {
+        "abbreviation": "MB",
+        "term": "métabolisme basal"
+      },
+      {
+        "abbreviation": "Mbb",
+        "term": "membrane basale"
+      },
+      {
+        "abbreviation": "MC",
+        "term": "maladie coronarienne"
+      },
+      {
+        "abbreviation": "MCAS",
+        "term": "maladie cardiaque athérosclérotique"
+      },
+      {
+        "abbreviation": "MCE",
+        "term": "massage cardiaque externe"
+      },
+      {
+        "abbreviation": "MCJ",
+        "term": "maladie de Creutzfeldt-Jakob"
+      },
+      {
+        "abbreviation": "MCO",
+        "term": "médecine, chirurgie, gynécologie obstétrique"
+      },
+      {
+        "abbreviation": "MCP",
+        "term": "métacarpo-phalangienne"
+      },
+      {
+        "abbreviation": "MCTM",
+        "term": "maladie des calcifications tendineuses multiples"
+      },
+      {
+        "abbreviation": "MCV",
+        "term": "maladie cardiovasculaire"
+      },
+      {
+        "abbreviation": "MD",
+        "term": "médecin, du latin medicinae doctor signifiant docteur en médecine"
+      },
+      {
+        "abbreviation": "MDH",
+        "term": "maladie de Hodgkin"
+      },
+      {
+        "abbreviation": "MDM",
+        "term": "Médecins du monde"
+      },
+      {
+        "abbreviation": "ME",
+        "term": "microscope électronique"
+      },
+      {
+        "abbreviation": "MEC",
+        "term": "mise en charge"
+      },
+      {
+        "abbreviation": "MF",
+        "term": "médecin de famille"
+      },
+      {
+        "abbreviation": "MFÉ",
+        "term": "monitoring fœtal électronique"
+      },
+      {
+        "abbreviation": "MFIU",
+        "term": "mort fœtale in utero"
+      },
+      {
+        "abbreviation": "MFM",
+        "term": "Myofasciite à macrophages"
+      },
+      {
+        "abbreviation": "MGUS",
+        "term": "gammapathie monoclonale de signification indéterminée"
+      },
+      {
+        "abbreviation": "MI",
+        "term": "myocardial infarction (Infarctus du myocarde)"
+      },
+      {
+        "abbreviation": "MII",
+        "term": "maladie inflammatoire de l'intestin"
+      },
+      {
+        "abbreviation": "MICI",
+        "term": "maladies inflammatoires chroniques de l'intestin"
+      },
+      {
+        "abbreviation": "MID",
+        "term": "membre inférieur droit"
+      },
+      {
+        "abbreviation": "MIG",
+        "term": "membre inférieur gauche"
+      },
+      {
+        "abbreviation": "MIBG",
+        "term": "méta-iodobenzylguanidine (utilisée en scintigraphie)"
+      },
+      {
+        "abbreviation": "MM",
+        "term": "mélanome malin"
+      },
+      {
+        "abbreviation": "MMH",
+        "term": "maladie des membranes hyalines"
+      },
+      {
+        "abbreviation": "MMS",
+        "term": "mini-mental state (test de dépistage des démences)"
+      },
+      {
+        "abbreviation": "MNA",
+        "term": "mini nutritional assesment : évaluation de l'état nutritionnel"
+      },
+      {
+        "abbreviation": "MNI",
+        "term": "mononucléose infectieuse"
+      },
+      {
+        "abbreviation": "MP",
+        "term": "maladie professionnelle"
+      },
+      {
+        "abbreviation": "MPOC",
+        "term": "maladie pulmonaire obstructive chronique"
+      },
+      {
+        "abbreviation": "MROP",
+        "term": "maladie reconnue d'origine professionnelle"
+      },
+      {
+        "abbreviation": "MRV",
+        "term": "murmure respiratoire vésiculaire"
+      },
+      {
+        "abbreviation": "MS",
+        "term": "membre supérieur"
+      },
+      {
+        "abbreviation": "MSD",
+        "term": "membre supérieur droite"
+      },
+      {
+        "abbreviation": "MSF",
+        "term": "Médecins sans frontières"
+      },
+      {
+        "abbreviation": "MSG",
+        "term": "membre supérieur gauche"
+      },
+      {
+        "abbreviation": "Mô",
+        "term": "morphine"
+      },
+      {
+        "abbreviation": "MSN",
+        "term": "mort subite du nourrisson"
+      },
+      {
+        "abbreviation": "MSP",
+        "term": "mise en situation professionnelle (étude d'infirmier)"
+      },
+      {
+        "abbreviation": "MST",
+        "term": "maladie sexuellement transmissible"
+      },
+      {
+        "abbreviation": "MT",
+        "term": "médecin traitant"
+      },
+      {
+        "abbreviation": "MTE",
+        "term": "maladie thromboembolique ou marge thérapeutique étroite"
+      },
+      {
+        "abbreviation": "MTP",
+        "term": "(articulation) métatarso-phalangienne"
+      },
+      {
+        "abbreviation": "MTS",
+        "term": "maladie transmissible sexuellement"
+      },
+      {
+        "abbreviation": "MVAS",
+        "term": "maladie vasculaire athérosclérotique"
+      },
+      {
+        "abbreviation": "MV",
+        "term": "murmure vésiculaire"
+      },
+      {
+        "abbreviation": "MU",
+        "term": "médecin d'urgence"
+      },
+      {
+        "abbreviation": "MVC",
+        "term": "maladie veineuse chronique"
+      },
+      {
+        "abbreviation": "MVE",
+        "term": "maladie à virus Ebola"
+      },
+      {
+        "abbreviation": "MVO",
+        "term": "maladie veino-occlusive"
+      },
+      {
+        "abbreviation": "MW",
+        "term": "maladie de Willebrand"
+      },
+      {
+        "abbreviation": "Mx",
+        "term": "médication"
+      }
+    ]
+  },
+  {
+    "name": "N",
+    "entries": [
+      {
+        "abbreviation": "N+ / n+",
+        "term": "nausée"
+      },
+      {
+        "abbreviation": "Na",
+        "term": "natrémie"
+      },
+      {
+        "abbreviation": "NACO",
+        "term": "nouveaux anticoagulants oraux"
+      },
+      {
+        "abbreviation": "NAS",
+        "term": "néphroangiosclérose"
+      },
+      {
+        "abbreviation": "NASH",
+        "term": "Non-alcoholic steatohepatitis"
+      },
+      {
+        "abbreviation": "NCB",
+        "term": "névralgie cervico-brachiale"
+      },
+      {
+        "abbreviation": "NDS",
+        "term": "niveau de soins"
+      },
+      {
+        "abbreviation": "NEM",
+        "term": "néoplasie endocrinienne multiple"
+      },
+      {
+        "abbreviation": "NF",
+        "term": "neurofibromatose"
+      },
+      {
+        "abbreviation": "NFS",
+        "term": "numération formule sanguine"
+      },
+      {
+        "abbreviation": "NHA",
+        "term": "niveau hydro-aérique"
+      },
+      {
+        "abbreviation": "NIA",
+        "term": "néphrite interstitielle aiguë"
+      },
+      {
+        "abbreviation": "NIC",
+        "term": "néphropathie interstitielle chronique"
+      },
+      {
+        "abbreviation": "NK",
+        "term": "natural killer (lymphocyte tueur naturel)"
+      },
+      {
+        "abbreviation": "NLP",
+        "term": "neuroleptiques"
+      },
+      {
+        "abbreviation": "NMDA",
+        "term": "acide N-méthyl-D-aspartique"
+      },
+      {
+        "abbreviation": "NOIA",
+        "term": "neuropathie optique ischémique antérieure"
+      },
+      {
+        "abbreviation": "NOIAA",
+        "term": "neuropathie optique ischémique antérieure aiguë"
+      },
+      {
+        "abbreviation": "NORB",
+        "term": "névrite optique rétrobulbaire"
+      },
+      {
+        "abbreviation": "NPO",
+        "term": "à jeûn, du latin nil per os signifiant \"rien par la bouche\""
+      },
+      {
+        "abbreviation": "NPS",
+        "term": "« ne pas substituer », mention sur une ordonnance pour exclure la délivrance d'un produit générique"
+      },
+      {
+        "abbreviation": "NRS",
+        "term": "nourrisson"
+      },
+      {
+        "abbreviation": "NS",
+        "term": "de \"normal salin\", signifiant solution saline isotonique"
+      },
+      {
+        "abbreviation": "NSIP",
+        "term": "non-specific interstitial pneumonia (pneumonie non-specifique interstitielle (en))"
+      },
+      {
+        "abbreviation": "NSU",
+        "term": "négligence spatiale unilatérale"
+      },
+      {
+        "abbreviation": "NTA",
+        "term": "nécrose tubulaire aiguë"
+      },
+      {
+        "abbreviation": "NTIA",
+        "term": "néphrite tubulo-interstitielle aiguë"
+      },
+      {
+        "abbreviation": "NYHA",
+        "term": "critères de la NYHA (New York Heart Association), dans l'insuffisance cardiaque"
+      }
+    ]
+  },
+  {
+    "name": "O",
+    "entries": [
+      {
+        "abbreviation": "O2T",
+        "term": "oxygénothérapie"
+      },
+      {
+        "abbreviation": "OAD",
+        "term": "one a day (une fois par jour) ou (artère sur une vue) oblique anterieure droite"
+      },
+      {
+        "abbreviation": "OAP",
+        "term": "œdème aigu du poumon"
+      },
+      {
+        "abbreviation": "OACR",
+        "term": "occlusion de l'artère centrale de la rétine"
+      },
+      {
+        "abbreviation": "OCT",
+        "term": "optical coherence tomography, Tomographie en cohérence optique"
+      },
+      {
+        "abbreviation": "OD",
+        "term": "ocula dexter, œil droit ou oreillette droite"
+      },
+      {
+        "abbreviation": "ODF",
+        "term": "orthopédie dento-faciale"
+      },
+      {
+        "abbreviation": "ODM",
+        "term": "ostéodensitométrie"
+      },
+      {
+        "abbreviation": "OG",
+        "term": "œil gauche ou oreillette gauche"
+      },
+      {
+        "abbreviation": "OGD",
+        "term": "œsogastroduodénoscopie"
+      },
+      {
+        "abbreviation": "OGE",
+        "term": "organes génitaux externes (voir appareil reproducteur)"
+      },
+      {
+        "abbreviation": "OH",
+        "term": "orifice herniaire"
+      },
+      {
+        "abbreviation": "OLD",
+        "term": "oxygénation longue durée"
+      },
+      {
+        "abbreviation": "OMA",
+        "term": "otite moyenne aiguë"
+      },
+      {
+        "abbreviation": "OMI",
+        "term": "œdème des membres inférieurs"
+      },
+      {
+        "abbreviation": "OMS",
+        "term": "Organisation mondiale de la santé"
+      },
+      {
+        "abbreviation": "ONA",
+        "term": "ostéonécrose aseptique"
+      },
+      {
+        "abbreviation": "OPH",
+        "term": "œdème pulmonaire hémodynamique ou Ostéochondrite Primitive de la Hanche (aussi appelée Maladie de Legg-Calvé-Perthes)"
+      },
+      {
+        "abbreviation": "OPS",
+        "term": "orange palpebral spots"
+      },
+      {
+        "abbreviation": "OPT",
+        "term": "orthopantomogramme"
+      },
+      {
+        "abbreviation": "ORL",
+        "term": "oto-rhino-laryngologie"
+      },
+      {
+        "abbreviation": "OS",
+        "term": "ocula sinister (œil gauche)"
+      },
+      {
+        "abbreviation": "OU",
+        "term": "oculus uterque (les deux yeux)"
+      },
+      {
+        "abbreviation": "OVCR",
+        "term": "Occlusion de la veine centrale de la rétine"
+      },
+      {
+        "abbreviation": "OX3",
+        "term": "orienté dans les trois sphères"
+      }
+    ]
+  },
+  {
+    "name": "P",
+    "entries": [
+      {
+        "abbreviation": "p",
+        "term": "bras court d'un chromosome (Génétique)"
+      },
+      {
+        "abbreviation": "PA",
+        "term": "pression artérielle, personne âgée, pancréatite aiguë, prostatite aiguë ou principe actif"
+      },
+      {
+        "abbreviation": "PAAP",
+        "term": "polyneuropathie axonale ascendante progressive"
+      },
+      {
+        "abbreviation": "PAB",
+        "term": "préposé aux bénéficiaires"
+      },
+      {
+        "abbreviation": "PAC",
+        "term": "praticien associé contractuel, pontage aorto-coronarien, port-a-cath ou pneumopathie aiguë communautaire"
+      },
+      {
+        "abbreviation": "PACS",
+        "term": "Picture archiving and communication system"
+      },
+      {
+        "abbreviation": "PaCO2",
+        "term": "pression artérielle partielle en dioxyde de carbone"
+      },
+      {
+        "abbreviation": "PAD",
+        "term": "pression artérielle diastolique"
+      },
+      {
+        "abbreviation": "PAL",
+        "term": "phosphatase alcaline"
+      },
+      {
+        "abbreviation": "PAM",
+        "term": "pression artérielle moyenne, polyangéite microscopique ou modulation d'impulsions en amplitude (en)"
+      },
+      {
+        "abbreviation": "PAN",
+        "term": "périartérite noueuse"
+      },
+      {
+        "abbreviation": "PaO2",
+        "term": "pression artérielle partielle en oxygène"
+      },
+      {
+        "abbreviation": "PAPO",
+        "term": "pression artérielle pulmonaire d'occlusion"
+      },
+      {
+        "abbreviation": "PAR",
+        "term": "polyarthrite rhumatoïde (utilisé au Canada français)"
+      },
+      {
+        "abbreviation": "PAS",
+        "term": "pression artérielle systolique"
+      },
+      {
+        "abbreviation": "PAS",
+        "term": "(Periodic Acid Schiff) coloration utilisée en histologie"
+      },
+      {
+        "abbreviation": "PASS",
+        "term": "permanences d'accès aux soins de santé"
+      },
+      {
+        "abbreviation": "PBH",
+        "term": "ponction biopsie hépatique"
+      },
+      {
+        "abbreviation": "PBR",
+        "term": "ponction biopsie rénale"
+      },
+      {
+        "abbreviation": "PBS",
+        "term": "péritonite bactérienne spontanée"
+      },
+      {
+        "abbreviation": "PC",
+        "term": "périmètre crânien, post cibum (après les repas ou post prandial) ou perte de connaissance"
+      },
+      {
+        "abbreviation": "PCI",
+        "term": "prévention contre les infections ou perte de conscience initiale (dans un contexte de traumatisme crânien)"
+      },
+      {
+        "abbreviation": "PCC",
+        "term": "pancréatite chronique calcifiante"
+      },
+      {
+        "abbreviation": "PCE",
+        "term": "polyarthrite chronique évolutive"
+      },
+      {
+        "abbreviation": "PCM",
+        "term": "pâleur cutanéo-muqueuse"
+      },
+      {
+        "abbreviation": "PCP",
+        "term": "pression capillaire pulmonaire"
+      },
+      {
+        "abbreviation": "PCR",
+        "term": "polymerase chain-reaction (réaction en chaîne par polymérase)"
+      },
+      {
+        "abbreviation": "PCT",
+        "term": "procalcitonine"
+      },
+      {
+        "abbreviation": "PD",
+        "term": "péridurale"
+      },
+      {
+        "abbreviation": "PDA",
+        "term": "préparation des doses à administrer"
+      },
+      {
+        "abbreviation": "PDC",
+        "term": "perte de connaissance"
+      },
+      {
+        "abbreviation": "PDF",
+        "term": "produit de dégradation de la fibrine"
+      },
+      {
+        "abbreviation": "PDGF",
+        "term": "platelet-derived growth factor (facteur de croissance des plaquettes)"
+      },
+      {
+        "abbreviation": "PDL",
+        "term": "produit dose x longueur en radiologie"
+      },
+      {
+        "abbreviation": "PEA",
+        "term": "potentiel évoqué auditif"
+      },
+      {
+        "abbreviation": "PEAG",
+        "term": "pustulose exanthématique aiguë généralisée"
+      },
+      {
+        "abbreviation": "PEAI",
+        "term": "polyendocrinopathie auto-immune"
+      },
+      {
+        "abbreviation": "PEC",
+        "term": "prise en charge"
+      },
+      {
+        "abbreviation": "PEEP",
+        "term": "positive end-expiratory pressure (en anglais) ou PEP (en français)"
+      },
+      {
+        "abbreviation": "PEP",
+        "term": "pression expiratoire positive (Voir PEEP)"
+      },
+      {
+        "abbreviation": "PERL",
+        "term": "pupilles égales et réactives à la lumière"
+      },
+      {
+        "abbreviation": "PERLA",
+        "term": "pupilles et réactives à la lumière ainsi qu'à l'accommodation"
+      },
+      {
+        "abbreviation": "PESS",
+        "term": "Panencéphalite sclérosante subaiguë"
+      },
+      {
+        "abbreviation": "PEV",
+        "term": "pyélographie endoveineuse"
+      },
+      {
+        "abbreviation": "PF",
+        "term": "paralysie faciale"
+      },
+      {
+        "abbreviation": "PFC",
+        "term": "plasma frais congelé"
+      },
+      {
+        "abbreviation": "PFLA",
+        "term": "pneumonie franche lobaire aiguë"
+      },
+      {
+        "abbreviation": "PG",
+        "term": "prostaglandine"
+      },
+      {
+        "abbreviation": "PH",
+        "term": "praticien hospitalier, pheochromocytome ou potentiel hydrogène"
+      },
+      {
+        "abbreviation": "PHC",
+        "term": "psychose hallucinatoire chronique"
+      },
+      {
+        "abbreviation": "PHT",
+        "term": "Pressure Half-Time (temps de demi-croissance de l'onde)"
+      },
+      {
+        "abbreviation": "PIC",
+        "term": "pression intra-crânienne"
+      },
+      {
+        "abbreviation": "Pic V",
+        "term": "pic de vélosité"
+      },
+      {
+        "abbreviation": "PID",
+        "term": "pneumopathie interstitielle diffuse"
+      },
+      {
+        "abbreviation": "PIF",
+        "term": "Prolactin Inhibitory Factor (dopamine)"
+      },
+      {
+        "abbreviation": "PIO",
+        "term": "pression intra-oculaire"
+      },
+      {
+        "abbreviation": "PKAD",
+        "term": "polykystose rénale autosomique dominante (ou PKD)"
+      },
+      {
+        "abbreviation": "PL",
+        "term": "ponction lombaire ou pertes liquides"
+      },
+      {
+        "abbreviation": "PLS",
+        "term": "position latérale de sécurité"
+      },
+      {
+        "abbreviation": "PM",
+        "term": "pacemaker (stimulateur cardiaque) ou prémédication"
+      },
+      {
+        "abbreviation": "PMI",
+        "term": "protection maternelle et infantile"
+      },
+      {
+        "abbreviation": "PMA",
+        "term": "procréation médicalement assistée"
+      },
+      {
+        "abbreviation": "PMAD",
+        "term": "programme de maintien à domicile"
+      },
+      {
+        "abbreviation": "PMD",
+        "term": "psychose maniaco-dépressive (appelée dorénavant trouble bipolaire)"
+      },
+      {
+        "abbreviation": "PMO",
+        "term": "prélèvements multi-organes"
+      },
+      {
+        "abbreviation": "PMP",
+        "term": "pacemaker permanent"
+      },
+      {
+        "abbreviation": "PMR",
+        "term": "Polymyalgie rhumatoïde ou personne à mobilité réduite"
+      },
+      {
+        "abbreviation": "PMSI",
+        "term": "programme de médicalisation des systèmes d'information"
+      },
+      {
+        "abbreviation": "PN",
+        "term": "polynucléaire"
+      },
+      {
+        "abbreviation": "PNA",
+        "term": "pyélonéphrite aiguë"
+      },
+      {
+        "abbreviation": "PNB",
+        "term": "polynucléaire basophile"
+      },
+      {
+        "abbreviation": "PNC",
+        "term": "pénicilline"
+      },
+      {
+        "abbreviation": "PNE",
+        "term": "polynucléaire éosinophile"
+      },
+      {
+        "abbreviation": "PNI",
+        "term": "pression artérielle non invasive"
+      },
+      {
+        "abbreviation": "PNN",
+        "term": "polynucléaire neutrophile"
+      },
+      {
+        "abbreviation": "PNP",
+        "term": "Pneumopathie"
+      },
+      {
+        "abbreviation": "PNP",
+        "term": "Polyneuropathie"
+      },
+      {
+        "abbreviation": "po",
+        "term": "per os administration de médicaments ou de nourriture par voie orale"
+      },
+      {
+        "abbreviation": "POIC",
+        "term": "pseudo-obstruction intestinale chronique"
+      },
+      {
+        "abbreviation": "POM",
+        "term": "paralysie du nerf oculomoteur"
+      },
+      {
+        "abbreviation": "POMC",
+        "term": "pro-opiomélanocortine"
+      },
+      {
+        "abbreviation": "PP",
+        "term": "placenta praevia, pression de perfusion ou pneumopéritoine"
+      },
+      {
+        "abbreviation": "PPC",
+        "term": "pression de perfusion cérébrale"
+      },
+      {
+        "abbreviation": "PPD",
+        "term": "Purified Protein Derivative (test Mantoux)"
+      },
+      {
+        "abbreviation": "PPE",
+        "term": "prophylaxie post-exposition"
+      },
+      {
+        "abbreviation": "PPR",
+        "term": "pseudo-polyarthrite rhizomélique"
+      },
+      {
+        "abbreviation": "PPRST",
+        "term": "poumon, prostate, rein, sein, thyroïde (localisation de cancers ostéophiles)"
+      },
+      {
+        "abbreviation": "PPS",
+        "term": "programme personnalisé de soins"
+      },
+      {
+        "abbreviation": "PPSB",
+        "term": "Prothrombin-Proconvertin-Stuart factor B (facteur antihémophilique B, une protéine plasmatique)"
+      },
+      {
+        "abbreviation": "PPVG",
+        "term": "paroi postérieure du ventricule gauche"
+      },
+      {
+        "abbreviation": "PR",
+        "term": "prélèvement rectal, premières règles, punch rénal (en), intervalle PR, polyarthrite rhumatoïde (ou PCE), Paralysie récurrentielle"
+      },
+      {
+        "abbreviation": "PRES",
+        "term": "posterior reversible encephalopathy syndrome (en)"
+      },
+      {
+        "abbreviation": "PRI",
+        "term": "Protéines de la réaction inflammatoire"
+      },
+      {
+        "abbreviation": "PRL",
+        "term": "prolactine"
+      },
+      {
+        "abbreviation": "PRN",
+        "term": "pro re nata (en) (« au besoin ») ou polyradiculonévrite"
+      },
+      {
+        "abbreviation": "PS",
+        "term": "pertes sanguines"
+      },
+      {
+        "abbreviation": "PSA",
+        "term": "prostatic specific antigen (antigène prostatique spécifique), plaque simple de l'abdomen (voir radiographie)"
+      },
+      {
+        "abbreviation": "PSDP",
+        "term": "Pneumocoque de sensibilité diminuée à la pénicilline"
+      },
+      {
+        "abbreviation": "PSE",
+        "term": "pousse-seringue électrique"
+      },
+      {
+        "abbreviation": "PSH",
+        "term": "périarthrite scapulohumérale"
+      },
+      {
+        "abbreviation": "PSL",
+        "term": "produit sanguin labile"
+      },
+      {
+        "abbreviation": "PTG",
+        "term": "prothèse totale de genou"
+      },
+      {
+        "abbreviation": "PTH",
+        "term": "Parathyroïd hormone (parathormone) ou prothèse totale de hanche)"
+      },
+      {
+        "abbreviation": "PTI",
+        "term": "purpura thrombopénique immunologique"
+      },
+      {
+        "abbreviation": "PTT",
+        "term": "Purpura thrombotique thrombocytopénique"
+      },
+      {
+        "abbreviation": "PTV",
+        "term": "potentiels tardifs ventriculaires"
+      },
+      {
+        "abbreviation": "PU",
+        "term": "praticien universitaire ou protéinurie"
+      },
+      {
+        "abbreviation": "PU-PH",
+        "term": "professeur des universités – praticien hospitalier"
+      },
+      {
+        "abbreviation": "PV",
+        "term": "prélèvement vaginal"
+      },
+      {
+        "abbreviation": "PVC",
+        "term": "pression veineuse centrale"
+      },
+      {
+        "abbreviation": "PVM",
+        "term": "petite valve mitrale"
+      }
+    ]
+  },
+  {
+    "name": "Q",
+    "entries": [
+      {
+        "abbreviation": "q",
+        "term": "bras long d'un chromosome"
+      },
+      {
+        "abbreviation": "QD",
+        "term": "quaque die (chaque jour, pour une prise de médicament)"
+      },
+      {
+        "abbreviation": "QI",
+        "term": "quotient intellectuel"
+      },
+      {
+        "abbreviation": "QID",
+        "term": "quatro in die (quatre fois par jour)"
+      },
+      {
+        "abbreviation": "QRS",
+        "term": "complexe QRS"
+      },
+      {
+        "abbreviation": "QS",
+        "term": "question spécifique, abréviation fréquemment utilisée dans les livres de préparation à l'ECN, ou Quantum satis, équivalent international de QSP"
+      },
+      {
+        "abbreviation": "QSP",
+        "term": "quantité suffisante pour"
+      },
+      {
+        "abbreviation": "QT",
+        "term": "segment QT"
+      }
+    ]
+  },
+  {
+    "name": "R",
+    "entries": [
+      {
+        "abbreviation": "RA",
+        "term": "rétrécissement aortique ; ou rachi-anesthésie ; ou réserves alcalines (HCO3-)"
+      },
+      {
+        "abbreviation": "RAA",
+        "term": "rhumatisme articulaire aigu"
+      },
+      {
+        "abbreviation": "RAC",
+        "term": "rétrécissement aortique calcifié"
+      },
+      {
+        "abbreviation": "RAD",
+        "term": "retour à domicile"
+      },
+      {
+        "abbreviation": "RAI",
+        "term": "recherche d'anticorps irréguliers"
+      },
+      {
+        "abbreviation": "RAISIN",
+        "term": "réseau d’alerte, d’investigation et de surveillance des infections nosocomiales"
+      },
+      {
+        "abbreviation": "RAM",
+        "term": "rupture artificielle des membranes ou rééducation à la marche (médecine physique et de réadaptation)"
+      },
+      {
+        "abbreviation": "RAo",
+        "term": "rétrécissement aortique"
+      },
+      {
+        "abbreviation": "RAP",
+        "term": "résistance artérielle pulmonaire"
+      },
+      {
+        "abbreviation": "RAST",
+        "term": "radioallergosorbant test (dosage radio immunologique des IgE spécifiques d’un allergène)"
+      },
+      {
+        "abbreviation": "RAT",
+        "term": "retour au travail"
+      },
+      {
+        "abbreviation": "RAU",
+        "term": "rétention aiguë d'urine"
+      },
+      {
+        "abbreviation": "RB",
+        "term": "rétinopathie diabétique"
+      },
+      {
+        "abbreviation": "RBNP",
+        "term": "rétinopathie diabétique non proliférante"
+      },
+      {
+        "abbreviation": "RBP",
+        "term": "rétinopathie diabétique proliférante"
+      },
+      {
+        "abbreviation": "RBPP",
+        "term": "rétinopathie diabétique pré-proliférante"
+      },
+      {
+        "abbreviation": "RCA",
+        "term": "réflexe cutané abdominal"
+      },
+      {
+        "abbreviation": "RCF",
+        "term": "rythme cardiaque fœtal"
+      },
+      {
+        "abbreviation": "RCH",
+        "term": "recto-colite hémorragique"
+      },
+      {
+        "abbreviation": "RCIU",
+        "term": "retard de croissance intra-utérin"
+      },
+      {
+        "abbreviation": "RCM",
+        "term": "rubéole congénitale malformative"
+      },
+      {
+        "abbreviation": "RCP",
+        "term": "résumé des caractéristiques du produit, réanimation cardio-pulmonaire, réunion de concertation pluridisciplinaire ou réflexe cutané plantaire"
+      },
+      {
+        "abbreviation": "RCR",
+        "term": "réanimation cardio-respiratoire ou rythme cardiaque régulier"
+      },
+      {
+        "abbreviation": "RCUH",
+        "term": "recto-colique ulcero-hémorragique"
+      },
+      {
+        "abbreviation": "RDS",
+        "term": "revue des systèmes"
+      },
+      {
+        "abbreviation": "REV",
+        "term": "résection endoscopique de vessie"
+      },
+      {
+        "abbreviation": "RGO",
+        "term": "reflux gastro-œsophagien"
+      },
+      {
+        "abbreviation": "Rh",
+        "term": "rhésus"
+      },
+      {
+        "abbreviation": "RH",
+        "term": "restriction hydrique"
+      },
+      {
+        "abbreviation": "RHD",
+        "term": "règles hygiéno-diététiques"
+      },
+      {
+        "abbreviation": "RHJ",
+        "term": "reflux hépato-jugulaire"
+      },
+      {
+        "abbreviation": "RIC",
+        "term": "rhumatismes chroniques inflammatoires"
+      },
+      {
+        "abbreviation": "RIVA",
+        "term": "rythme idioventriculaire accéléré"
+      },
+      {
+        "abbreviation": "RM",
+        "term": "rétrécissement mitral"
+      },
+      {
+        "abbreviation": "RMM",
+        "term": "revue de mortalité et de morbidité"
+      },
+      {
+        "abbreviation": "RMN",
+        "term": "résonance magnétique nucléaire"
+      },
+      {
+        "abbreviation": "RMO",
+        "term": "référence médicale opposable"
+      },
+      {
+        "abbreviation": "R/O",
+        "term": "rule out (à éliminer)"
+      },
+      {
+        "abbreviation": "ROFI",
+        "term": "réduction ouverte avec fixation interne"
+      },
+      {
+        "abbreviation": "ROH",
+        "term": "alcool"
+      },
+      {
+        "abbreviation": "ROR",
+        "term": "rougeole-oreillons-rubéole"
+      },
+      {
+        "abbreviation": "RoRx",
+        "term": "radiothérapie"
+      },
+      {
+        "abbreviation": "ROT",
+        "term": "réflexe ostéo-tendineux"
+      },
+      {
+        "abbreviation": "RP",
+        "term": "radiographie pulmonaire"
+      },
+      {
+        "abbreviation": "RPM",
+        "term": "rupture prématurée des membranes, réflexe photomoteur ou [[résidu post-mictionnel"
+      },
+      {
+        "abbreviation": "RPT",
+        "term": "résistance pulmonaire totale"
+      },
+      {
+        "abbreviation": "RPTG",
+        "term": "reprise de prothèse totale du genou"
+      },
+      {
+        "abbreviation": "RPTH",
+        "term": "reprise de prothèse totale de hanche"
+      },
+      {
+        "abbreviation": "RR",
+        "term": "risque relatif"
+      },
+      {
+        "abbreviation": "RRS",
+        "term": "rythme régulier sinusal"
+      },
+      {
+        "abbreviation": "RS",
+        "term": "rythme sinusal"
+      },
+      {
+        "abbreviation": "RSN",
+        "term": "rythme sinusal normal"
+      },
+      {
+        "abbreviation": "RT",
+        "term": "reverse transcription (transcription inverse)"
+      },
+      {
+        "abbreviation": "rTPA",
+        "term": "Activateur tissulaire du plasminogène (t-PA)"
+      },
+      {
+        "abbreviation": "RTUP",
+        "term": "résection transuréthrale de prostate"
+      },
+      {
+        "abbreviation": "RTUTV",
+        "term": "résection transurethrale des tumeurs de vessie"
+      },
+      {
+        "abbreviation": "RU",
+        "term": "révision utérine"
+      },
+      {
+        "abbreviation": "RVA",
+        "term": "remplacement de valve aortique"
+      },
+      {
+        "abbreviation": "RVG",
+        "term": "(artère) rétro-ventriculaire gauche"
+      },
+      {
+        "abbreviation": "RVPA",
+        "term": "retour veineux pulmonaire anormal"
+      },
+      {
+        "abbreviation": "RVS",
+        "term": "résistance vasculaire systémique"
+      },
+      {
+        "abbreviation": "RVU",
+        "term": "rachitisme vitamino-résistant ou reflux vésico-urétéral"
+      },
+      {
+        "abbreviation": "Rx ou ℞",
+        "term": "prescription"
+      },
+      {
+        "abbreviation": "RX",
+        "term": "radiographie"
+      },
+      {
+        "abbreviation": "RxT",
+        "term": "radiographie du thorax"
+      }
+    ]
+  },
+  {
+    "name": "S",
+    "entries": [
+      {
+        "abbreviation": "SA",
+        "term": "semaines d'aménorrhée, soins ambulatoires ou Syndrome d'Asperger"
+      },
+      {
+        "abbreviation": "SAA",
+        "term": "Protéine Sérum Amyloïde A"
+      },
+      {
+        "abbreviation": "SAD",
+        "term": "sonde à demeure ou soins à domicile"
+      },
+      {
+        "abbreviation": "SAF",
+        "term": "syndrome d'alcoolisation fœtale"
+      },
+      {
+        "abbreviation": "SAG",
+        "term": "sous anesthésie générale ou symptômes d'allure grippale"
+      },
+      {
+        "abbreviation": "SAHS",
+        "term": "syndrome d'apnées/hypopnée du sommeil"
+      },
+      {
+        "abbreviation": "SAM",
+        "term": "syndrome d'activation macrophagique"
+      },
+      {
+        "abbreviation": "SAMU",
+        "term": "service d'aide médicale urgente"
+      },
+      {
+        "abbreviation": "SaO2",
+        "term": "saturation artérielle en oxygène"
+      },
+      {
+        "abbreviation": "SAOS",
+        "term": "syndrome des apnées obstructives du sommeil"
+      },
+      {
+        "abbreviation": "SAP",
+        "term": "Protéine Sérum Amyloïde P"
+      },
+      {
+        "abbreviation": "SAPL",
+        "term": "syndrome des antiphospholipides"
+      },
+      {
+        "abbreviation": "SAR",
+        "term": "sténose de l'artère rénale"
+      },
+      {
+        "abbreviation": "SARM",
+        "term": "staphylococcus aureus résistant à la méticilline"
+      },
+      {
+        "abbreviation": "SAS",
+        "term": "Syndrome d'apnées du sommeil ou sténose aortique serrée"
+      },
+      {
+        "abbreviation": "SASM",
+        "term": "Staphylococcus aureus sensible à la méticilline"
+      },
+      {
+        "abbreviation": "SAT",
+        "term": "sérologie anti-tétanique"
+      },
+      {
+        "abbreviation": "SAU",
+        "term": "service d'accueil des urgences"
+      },
+      {
+        "abbreviation": "SBI",
+        "term": "syndrome biologique inflammatoire"
+      },
+      {
+        "abbreviation": "SBS",
+        "term": "Syndrome du bébé secoué"
+      },
+      {
+        "abbreviation": "SC",
+        "term": "sous-cutanée ou Surface corporelle"
+      },
+      {
+        "abbreviation": "SCA",
+        "term": "syndrome coronarien aigu (moins usité)"
+      },
+      {
+        "abbreviation": "SCB",
+        "term": "surface corporelle brûlée"
+      },
+      {
+        "abbreviation": "SCI",
+        "term": "syndrome du côlon irritable"
+      },
+      {
+        "abbreviation": "SCID",
+        "term": "Severe combined immunodeficiency (déficit immunitaire combiné sévère)"
+      },
+      {
+        "abbreviation": "SCM",
+        "term": "(muscle) sterno-cléido-mastoïdien"
+      },
+      {
+        "abbreviation": "SCN",
+        "term": "staphylocoque à coagulase négative"
+      },
+      {
+        "abbreviation": "SDHEA",
+        "term": "sulfate de déhydroépiandrostérone (précurseur androgénique dosé en cas d'hyperandrogénisme (SOPK))"
+      },
+      {
+        "abbreviation": "SDL",
+        "term": "signe de lutte"
+      },
+      {
+        "abbreviation": "SDMV",
+        "term": "syndrome de défaillance multiviscérale"
+      },
+      {
+        "abbreviation": "SDN",
+        "term": "salle de naissance"
+      },
+      {
+        "abbreviation": "SDRA",
+        "term": "syndrome de détresse respiratoire aiguë (ou « de l'adulte »)"
+      },
+      {
+        "abbreviation": "SE",
+        "term": "seringue électrique"
+      },
+      {
+        "abbreviation": "SEES",
+        "term": "sonde d'entraînement électro-systolique"
+      },
+      {
+        "abbreviation": "SEGP",
+        "term": "Syndrome d'excitation génitale persistante"
+      },
+      {
+        "abbreviation": "SEP",
+        "term": "sclérose en plaques"
+      },
+      {
+        "abbreviation": "SERM",
+        "term": "modulateurs sélectifs des récepteurs aux œstrogènes"
+      },
+      {
+        "abbreviation": "SF",
+        "term": "sage-femme"
+      },
+      {
+        "abbreviation": "SFA",
+        "term": "souffrance fœtale aiguë"
+      },
+      {
+        "abbreviation": "SFU",
+        "term": "signes fonctionnels urinaires"
+      },
+      {
+        "abbreviation": "SGA",
+        "term": "streptocoque du groupe A"
+      },
+      {
+        "abbreviation": "SGB",
+        "term": "syndrome de Guillain-Barré ou streptocoque du groupe B"
+      },
+      {
+        "abbreviation": "SGO",
+        "term": "surface de l'oreillette (auriculaire) gauche"
+      },
+      {
+        "abbreviation": "SHA",
+        "term": "solution hydro-alcoolique"
+      },
+      {
+        "abbreviation": "SHU",
+        "term": "syndrome hémolytique et urémique ou service hospitalo-universitaire"
+      },
+      {
+        "abbreviation": "SIADH",
+        "term": "syndrome de sécrétion inappropriée d'hormone anti-diurétique"
+      },
+      {
+        "abbreviation": "SID",
+        "term": "semel in die (une fois par jour, pour les médicaments)"
+      },
+      {
+        "abbreviation": "SIDA",
+        "term": "syndrome d'immunodéficience acquise"
+      },
+      {
+        "abbreviation": "SIH",
+        "term": "système d'information hospitalier"
+      },
+      {
+        "abbreviation": "SIR",
+        "term": "système d'information de radiologie"
+      },
+      {
+        "abbreviation": "SIV",
+        "term": "septum interventriculaire"
+      },
+      {
+        "abbreviation": "SJSR",
+        "term": "Syndrome des jambes sans repos"
+      },
+      {
+        "abbreviation": "SLA",
+        "term": "sclérose latérale amyotrophique"
+      },
+      {
+        "abbreviation": "SLD",
+        "term": "soins de longue durée"
+      },
+      {
+        "abbreviation": "SLG",
+        "term": "syndrome de Lennox-Gastaut"
+      },
+      {
+        "abbreviation": "SMA",
+        "term": "service médical d'accueil"
+      },
+      {
+        "abbreviation": "SMD",
+        "term": "syndrome myélodysplasique"
+      },
+      {
+        "abbreviation": "SMG",
+        "term": "splénomégalie"
+      },
+      {
+        "abbreviation": "SMR",
+        "term": "service médical rendu"
+      },
+      {
+        "abbreviation": "SMS",
+        "term": "sciences médico-sociales"
+      },
+      {
+        "abbreviation": "SMT",
+        "term": "stimulation magnétique transcrânienne"
+      },
+      {
+        "abbreviation": "SMUR",
+        "term": "service médical d'urgence et de réanimation"
+      },
+      {
+        "abbreviation": "SN",
+        "term": "Syndrome néphrotique"
+      },
+      {
+        "abbreviation": "SNA",
+        "term": "système nerveux autonome"
+      },
+      {
+        "abbreviation": "SNC",
+        "term": "système nerveux central"
+      },
+      {
+        "abbreviation": "SNG",
+        "term": "sonde naso-gastrique"
+      },
+      {
+        "abbreviation": "SNM",
+        "term": "syndrome neuroleptique malin"
+      },
+      {
+        "abbreviation": "SNP",
+        "term": "système nerveux périphérique"
+      },
+      {
+        "abbreviation": "SOP",
+        "term": "soins operatoire ou syndrome ovarien polykystique"
+      },
+      {
+        "abbreviation": "SOPK",
+        "term": "syndrome des ovaires polykystiques"
+      },
+      {
+        "abbreviation": "SOR",
+        "term": "surface de l'orifice régurgitant"
+      },
+      {
+        "abbreviation": "SPA",
+        "term": "spondylarthrite ankylosante"
+      },
+      {
+        "abbreviation": "SPE",
+        "term": "sciatique poplité externe"
+      },
+      {
+        "abbreviation": "SPI",
+        "term": "sciatique poplité interne"
+      },
+      {
+        "abbreviation": "SPUPD",
+        "term": "syndrome polyuro-polydipsique"
+      },
+      {
+        "abbreviation": "SRAA",
+        "term": "système rénine-angiotensine-aldostérone"
+      },
+      {
+        "abbreviation": "SRAS",
+        "term": "syndrome respiratoire aigu sévère"
+      },
+      {
+        "abbreviation": "SRIS",
+        "term": "syndrome de réponse inflammatoire systémique"
+      },
+      {
+        "abbreviation": "SSI",
+        "term": "sérum salé isotonique"
+      },
+      {
+        "abbreviation": "SSPI",
+        "term": "salle de surveillance post-interventionnelle"
+      },
+      {
+        "abbreviation": "SSPO",
+        "term": "salle de surveillance post-opératoire"
+      },
+      {
+        "abbreviation": "SSR",
+        "term": "soins de suite et de réadaptation"
+      },
+      {
+        "abbreviation": "STAT",
+        "term": "urgent, immédiatement"
+      },
+      {
+        "abbreviation": "Sti VD",
+        "term": "stimulation ventriculaire droite programmée"
+      },
+      {
+        "abbreviation": "SU",
+        "term": "salle d'urgence"
+      },
+      {
+        "abbreviation": "SUG",
+        "term": "sillon urogénital"
+      },
+      {
+        "abbreviation": "SV",
+        "term": "sonde vésicale"
+      },
+      {
+        "abbreviation": "SVCR",
+        "term": "syndrome de vasoconstriction cérebrale réversible"
+      }
+    ]
+  },
+  {
+    "name": "T",
+    "entries": [
+      {
+        "abbreviation": "T3",
+        "term": "triiodothyronine"
+      },
+      {
+        "abbreviation": "T4",
+        "term": "thyroxine"
+      },
+      {
+        "abbreviation": "TA",
+        "term": "tension artérielle, tentative d'autolyse, trou anionique, ou tissu adipeux"
+      },
+      {
+        "abbreviation": "TABC",
+        "term": "tronc artériel brachio-céphalique"
+      },
+      {
+        "abbreviation": "TAC/FA",
+        "term": "tachy-arythmie complète par fibrillation auriculaire"
+      },
+      {
+        "abbreviation": "TAG",
+        "term": "Troubles Anxieux Généralisés"
+      },
+      {
+        "abbreviation": "TAP",
+        "term": "thoraco-abdomino-pelvien"
+      },
+      {
+        "abbreviation": "TAS",
+        "term": "tension artérielle systolique"
+      },
+      {
+        "abbreviation": "TAVI",
+        "term": "implantation transcatheter d'une valve aortique"
+      },
+      {
+        "abbreviation": "TB",
+        "term": "tuberculose, tb : trouble"
+      },
+      {
+        "abbreviation": "TC",
+        "term": "traumatisme crânien"
+      },
+      {
+        "abbreviation": "TCA",
+        "term": "trouble du comportement alimentaire ou temps de céphaline activée"
+      },
+      {
+        "abbreviation": "TCC",
+        "term": "traumatisme crâniocérébral ou thérapie cognitivo-comportementale"
+      },
+      {
+        "abbreviation": "TCCL",
+        "term": "traumatisme crâniocérébral léger"
+      },
+      {
+        "abbreviation": "TCCNA",
+        "term": "traumatisme crâniocérébral non accidentel"
+      },
+      {
+        "abbreviation": "TCG",
+        "term": "troubles crâniens graves"
+      },
+      {
+        "abbreviation": "TCK",
+        "term": "temps de céphaline kaolin"
+      },
+      {
+        "abbreviation": "TCMH",
+        "term": "teneur corpusculaire moyenne en hémoglobine"
+      },
+      {
+        "abbreviation": "TDA",
+        "term": "trouble du déficit d'attention"
+      },
+      {
+        "abbreviation": "TDAH",
+        "term": "trouble du déficit de l'attention avec ou sans hyperactivité"
+      },
+      {
+        "abbreviation": "TDD",
+        "term": "tableau de description"
+      },
+      {
+        "abbreviation": "TDM",
+        "term": "tomodensitométrie"
+      },
+      {
+        "abbreviation": "TDR",
+        "term": "test de diagnostic rapide ou troubles du rythme cardiaque"
+      },
+      {
+        "abbreviation": "TEC",
+        "term": "transfert d'embryon congelé"
+      },
+      {
+        "abbreviation": "TED",
+        "term": "trouble envahissant du développement"
+      },
+      {
+        "abbreviation": "TEG",
+        "term": "trouble d'état général"
+      },
+      {
+        "abbreviation": "TEMP",
+        "term": "tomographie à émission monophotonique"
+      },
+      {
+        "abbreviation": "TEP",
+        "term": "tomographie par émission de positons tuberculose extra pulmonaire"
+      },
+      {
+        "abbreviation": "TET",
+        "term": "tube endotrachéal"
+      },
+      {
+        "abbreviation": "TFI",
+        "term": "troubles fonctionnels intestinaux"
+      },
+      {
+        "abbreviation": "TG",
+        "term": "triglycérides"
+      },
+      {
+        "abbreviation": "TGMH",
+        "term": "teneur globulaire moyenne en hémoglobine"
+      },
+      {
+        "abbreviation": "TGO",
+        "term": "transaminase glutamo oxaloacétique"
+      },
+      {
+        "abbreviation": "TGP",
+        "term": "transaminase glutamo pyruvique"
+      },
+      {
+        "abbreviation": "TGV",
+        "term": "transposition des gros vaisseaux"
+      },
+      {
+        "abbreviation": "THC",
+        "term": "tétrahydrocannabinol"
+      },
+      {
+        "abbreviation": "THM",
+        "term": "Take Home Message"
+      },
+      {
+        "abbreviation": "THS",
+        "term": "traitement hormono-substitutif"
+      },
+      {
+        "abbreviation": "TIAC",
+        "term": "toxi-infection alimentaire collective"
+      },
+      {
+        "abbreviation": "TIC",
+        "term": "tension intra-crânienne"
+      },
+      {
+        "abbreviation": "TID (ter in die)",
+        "term": "trois fois par jour"
+      },
+      {
+        "abbreviation": "TIH",
+        "term": "thrombopénie induite à l'héparine"
+      },
+      {
+        "abbreviation": "TIO",
+        "term": "tension intra-oculaire"
+      },
+      {
+        "abbreviation": "TIPMP",
+        "term": "tumeur intracanalaire papillaire et mucineuse du pancréas"
+      },
+      {
+        "abbreviation": "TIPS",
+        "term": "Transjugular intrahepatic portosystemic Shunt (shunt intra-hépatique par voie transjugulaire)"
+      },
+      {
+        "abbreviation": "TJ",
+        "term": "turgescence jugulaire"
+      },
+      {
+        "abbreviation": "TM",
+        "term": "trou maculaire"
+      },
+      {
+        "abbreviation": "TMC",
+        "term": "trapézo-métacarpienne (articulation)"
+      },
+      {
+        "abbreviation": "TME",
+        "term": "test de maintien à l'éveil (trouble du sommeil) ou excision totale du mésorectum (en)"
+      },
+      {
+        "abbreviation": "TMS",
+        "term": "test de migration survie (des spermatozoïdes)"
+      },
+      {
+        "abbreviation": "TNF",
+        "term": "tumor necrosis factor (facteur de nécrose tumorale, voir aussi famille du facteur de nécrose tumorale)"
+      },
+      {
+        "abbreviation": "TNG",
+        "term": "tube nasogastrique"
+      },
+      {
+        "abbreviation": "TNM",
+        "term": "tumor nodes metastasis (classification tumeur-nœuds-métastases)"
+      },
+      {
+        "abbreviation": "TO",
+        "term": "tension oculaire"
+      },
+      {
+        "abbreviation": "TOC",
+        "term": "trouble obsessionnel compulsif"
+      },
+      {
+        "abbreviation": "TOGD",
+        "term": "transit œsogastroduodénal"
+      },
+      {
+        "abbreviation": "TP",
+        "term": "taux de prothrombine"
+      },
+      {
+        "abbreviation": "TPHA",
+        "term": "treponema pallidum haemagglutination assay (dosage par hémagglutination de Treponema pallidum)"
+      },
+      {
+        "abbreviation": "TPP",
+        "term": "thrombophlébite profonde"
+      },
+      {
+        "abbreviation": "TPS",
+        "term": "thrombophlébite superficielle"
+      },
+      {
+        "abbreviation": "TR",
+        "term": "toucher rectal"
+      },
+      {
+        "abbreviation": "TRH",
+        "term": "thyrotropin releasing hormone (hormone thyréotrope)"
+      },
+      {
+        "abbreviation": "TS",
+        "term": "tentative de suicide (ou tentative d'autolyse, TA), temps de saignement, transfusion sanguine ou travailleur social"
+      },
+      {
+        "abbreviation": "TSH",
+        "term": "thyroid stimulating hormone (thyréostimuline)"
+      },
+      {
+        "abbreviation": "TSA",
+        "term": "troncs supra-aortiques"
+      },
+      {
+        "abbreviation": "TSV",
+        "term": "tachycardie supraventriculaire"
+      },
+      {
+        "abbreviation": "TSVP",
+        "term": "tachycardie supraventriculaire paroxystique"
+      },
+      {
+        "abbreviation": "Tt / ttt",
+        "term": "traitement"
+      },
+      {
+        "abbreviation": "TTA",
+        "term": "tubérosité tibiale antérieure"
+      },
+      {
+        "abbreviation": "TV",
+        "term": "tachycardie ventriculaire ou toucher vaginal"
+      },
+      {
+        "abbreviation": "TVBC",
+        "term": "tronc veineux brachiocéphalique"
+      },
+      {
+        "abbreviation": "TVC",
+        "term": "thrombose veineuse cérébrale"
+      },
+      {
+        "abbreviation": "TVM",
+        "term": "thrombose veineuse musculaire"
+      },
+      {
+        "abbreviation": "TVO",
+        "term": "trouble ventilatoire obstructif"
+      },
+      {
+        "abbreviation": "TVP",
+        "term": "thrombose veineuse profonde"
+      },
+      {
+        "abbreviation": "TVPD",
+        "term": "thrombose veineuse profonde distale"
+      },
+      {
+        "abbreviation": "TVPP",
+        "term": "thrombose veineuse profonde proximale"
+      },
+      {
+        "abbreviation": "TVR",
+        "term": "trouble ventilatoire restrictif"
+      },
+      {
+        "abbreviation": "TVS",
+        "term": "thrombose veineuse superficielle"
+      }
+    ]
+  },
+  {
+    "name": "U",
+    "entries": [
+      {
+        "abbreviation": "UAEO",
+        "term": "unité d'accueil, d'évaluation et d'orientation"
+      },
+      {
+        "abbreviation": "UCC",
+        "term": "unité cognitivo-comportementale"
+      },
+      {
+        "abbreviation": "UCR",
+        "term": "urétrocystographie rétrograde"
+      },
+      {
+        "abbreviation": "UCSA",
+        "term": "unité de consultation et de soins ambulatoires"
+      },
+      {
+        "abbreviation": "UDI",
+        "term": "utilisateur de drogue injectable"
+      },
+      {
+        "abbreviation": "UDIV",
+        "term": "utilisateur de drogue intraveineuse"
+      },
+      {
+        "abbreviation": "UF",
+        "term": "unité fonctionnelle prescriptrice ou ultrafiltrat"
+      },
+      {
+        "abbreviation": "UFC",
+        "term": "unité faisant colonie"
+      },
+      {
+        "abbreviation": "UGD",
+        "term": "ulcère gastroduodénal"
+      },
+      {
+        "abbreviation": "UHCD",
+        "term": "unité d'hospitalisation courte durée"
+      },
+      {
+        "abbreviation": "UHR",
+        "term": "unité d'hébergement renforcé]]"
+      },
+      {
+        "abbreviation": "UI",
+        "term": "unité internationale"
+      },
+      {
+        "abbreviation": "UIP",
+        "term": "usual interstitial pneumonia (pneumonie interstitielle usuelle"
+      },
+      {
+        "abbreviation": "UIV",
+        "term": "urographie intraveineuse"
+      },
+      {
+        "abbreviation": "UMASP",
+        "term": "unité mobile d'accompagnement et de soins palliatifs"
+      },
+      {
+        "abbreviation": "UMF",
+        "term": "unité de médecine familiale"
+      },
+      {
+        "abbreviation": "UNVA",
+        "term": "unité neurologique vasculaire aigu"
+      },
+      {
+        "abbreviation": "UP",
+        "term": "unité plaquettaire"
+      },
+      {
+        "abbreviation": "UPA",
+        "term": "unité paquets-années"
+      },
+      {
+        "abbreviation": "Upatou",
+        "term": "unité de proximité d'accueil, de traitement et d'orientation des urgences"
+      },
+      {
+        "abbreviation": "UPR",
+        "term": "urétéro-pyélographie rétrograde (en)"
+      },
+      {
+        "abbreviation": "URFI",
+        "term": "unité de réadaptation fonctionnelle intensive"
+      },
+      {
+        "abbreviation": "USC",
+        "term": "unité de surveillance continue"
+      },
+      {
+        "abbreviation": "USI",
+        "term": "unité de soins intensifs"
+      },
+      {
+        "abbreviation": "USLD",
+        "term": "unité de soins et de longue durée"
+      },
+      {
+        "abbreviation": "USPA",
+        "term": "unité de soins post-anesthésie"
+      },
+      {
+        "abbreviation": "UTRF",
+        "term": "unité transitoire de réadaptation fonctionnelle"
+      }
+    ]
+  },
+  {
+    "name": "V",
+    "entries": [
+      {
+        "abbreviation": "V+ / v+",
+        "term": "vomissement"
+      },
+      {
+        "abbreviation": "VAC",
+        "term": "vacuum-assisted closure (Thérapie par pression négative ou traitement des Plaies par Pression Négative) ou ventilation assistée contrôlée"
+      },
+      {
+        "abbreviation": "VAD",
+        "term": "visite à domicile"
+      },
+      {
+        "abbreviation": "VADS",
+        "term": "voies aérodigestives supérieures"
+      },
+      {
+        "abbreviation": "VAS / VAES",
+        "term": "voies aériennes supérieures"
+      },
+      {
+        "abbreviation": "VAT",
+        "term": "vaccination anti-tétanique"
+      },
+      {
+        "abbreviation": "VBEH",
+        "term": "Voies biliaires extra-hépatiques"
+      },
+      {
+        "abbreviation": "VBIH",
+        "term": "Voies biliaires intra-hépatiques"
+      },
+      {
+        "abbreviation": "VBP",
+        "term": "voie biliaire principale"
+      },
+      {
+        "abbreviation": "VC",
+        "term": "volume courant"
+      },
+      {
+        "abbreviation": "VCI",
+        "term": "Veine cave inférieure"
+      },
+      {
+        "abbreviation": "VCS",
+        "term": "Veine cave supérieure"
+      },
+      {
+        "abbreviation": "VD",
+        "term": "ventricule droit"
+      },
+      {
+        "abbreviation": "Vd",
+        "term": "vélocité diastolique (sonographie Doppler) ou volume de dilution"
+      },
+      {
+        "abbreviation": "VDRL",
+        "term": "veneral disease research laboratory (laboratoire de recherche sur la maladie vénérienne)"
+      },
+      {
+        "abbreviation": "VEMS",
+        "term": "volume maximal expiré pendant la première seconde"
+      },
+      {
+        "abbreviation": "VES",
+        "term": "volume d'éjection systolique"
+      },
+      {
+        "abbreviation": "VG",
+        "term": "ventricule gauche"
+      },
+      {
+        "abbreviation": "VGM",
+        "term": "volume globulaire moyen"
+      },
+      {
+        "abbreviation": "VGTD",
+        "term": "ventricule gauche télédiastolique"
+      },
+      {
+        "abbreviation": "VH",
+        "term": "vessie hyperactive"
+      },
+      {
+        "abbreviation": "VHA",
+        "term": "virus de l'hépatite A"
+      },
+      {
+        "abbreviation": "VHB",
+        "term": "virus de l'hépatite B"
+      },
+      {
+        "abbreviation": "VHC",
+        "term": "virus de l'hépatite C"
+      },
+      {
+        "abbreviation": "VHD",
+        "term": "virus de l'hépatite D"
+      },
+      {
+        "abbreviation": "VHE",
+        "term": "virus de l'hépatite E"
+      },
+      {
+        "abbreviation": "VI",
+        "term": "ventilation invasive (intubation)"
+      },
+      {
+        "abbreviation": "VIH",
+        "term": "virus de l'immunodéficience humaine"
+      },
+      {
+        "abbreviation": "VIP",
+        "term": "vasoactive intestinal peptide (peptide vasoactif intestinal)"
+      },
+      {
+        "abbreviation": "VLDL",
+        "term": "very low density lipoprotein (lipoprotéine de très basse densité)"
+      },
+      {
+        "abbreviation": "VM",
+        "term": "valve mitrale ou ventilation mécanique"
+      },
+      {
+        "abbreviation": "VMS",
+        "term": "vitesse maximale systolique"
+      },
+      {
+        "abbreviation": "VNG",
+        "term": "vidéo nystagmographie"
+      },
+      {
+        "abbreviation": "VNI",
+        "term": "ventilation non invasive"
+      },
+      {
+        "abbreviation": "VNR",
+        "term": "Valeur nutritionnelle de référence"
+      },
+      {
+        "abbreviation": "VO",
+        "term": "varices œsophagiennes (stade I, II ou III)"
+      },
+      {
+        "abbreviation": "VO2max",
+        "term": "consommation maximale d'oxygène, exprimée en l/min"
+      },
+      {
+        "abbreviation": "VOP",
+        "term": "vitesse d'onde de pouls"
+      },
+      {
+        "abbreviation": "VPH",
+        "term": "virus du papillome humain"
+      },
+      {
+        "abbreviation": "VPN",
+        "term": "valeur prédictive négative"
+      },
+      {
+        "abbreviation": "VPP",
+        "term": "valeur prédictive positive"
+      },
+      {
+        "abbreviation": "VPPB",
+        "term": "Vertige paroxystique positionnel bénin"
+      },
+      {
+        "abbreviation": "VR",
+        "term": "volume résiduel"
+      },
+      {
+        "abbreviation": "VRE",
+        "term": "volume de réserve expiratoire"
+      },
+      {
+        "abbreviation": "VRI",
+        "term": "volume de réserve inspiratoire"
+      },
+      {
+        "abbreviation": "VRS",
+        "term": "virus respiratoire syncytial"
+      },
+      {
+        "abbreviation": "VS",
+        "term": "vitesse de sédimentation"
+      },
+      {
+        "abbreviation": "VSAI",
+        "term": "ventilation spontanée avec aide inspiratoire"
+      },
+      {
+        "abbreviation": "VSH",
+        "term": "veines sus-hépatiques (ancienne nomenclature anatomique)"
+      },
+      {
+        "abbreviation": "VSL",
+        "term": "véhicule sanitaire léger"
+      },
+      {
+        "abbreviation": "VS-PAP",
+        "term": "Ventilation spontanée en pression aspiration positive (CPAP en anglais)"
+      },
+      {
+        "abbreviation": "VTD",
+        "term": "volume télé-diastolique"
+      },
+      {
+        "abbreviation": "VTI",
+        "term": "Velocity-Time Integral (intégrale temps-vitesse du flux aortique)"
+      },
+      {
+        "abbreviation": "VTS",
+        "term": "volume télé-systolique"
+      },
+      {
+        "abbreviation": "VV",
+        "term": "vibrations vocales"
+      },
+      {
+        "abbreviation": "VVC",
+        "term": "voie veineuse centrale"
+      },
+      {
+        "abbreviation": "VVP",
+        "term": "voie veineuse périphérique"
+      }
+    ]
+  },
+  {
+    "name": "W",
+    "entries": [
+      {
+        "abbreviation": "WPW",
+        "term": "syndrome de Wolff-Parkinson-White"
+      }
+    ]
+  },
+  {
+    "name": "X",
+    "entries": []
+  },
+  {
+    "name": "Y",
+    "entries": []
+  },
+  {
+    "name": "Z",
+    "entries": []
+  }
+]
