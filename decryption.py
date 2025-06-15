@@ -91,7 +91,7 @@ try:
     print(json.dumps(json_data, indent=2, ensure_ascii=False))
 
 except json.JSONDecodeError:
-    print("Réponse Gemini invalide :")
+    """print("Réponse Gemini invalide :")"""
     print(reply)
 except Exception as e:
     print(f"Erreur lors de l'appel à Gemini : {e}")
