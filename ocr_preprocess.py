@@ -188,14 +188,14 @@ def getmessage(imagefile, debug_mode=True):
 
         deskewed = deskew(rotated)"""
         """if debug_mode:
-            save_image(deskewed, "4. Deskewed.png")
+            save_image(deskewed, "4. Deskewed.png")"""
 
-        resized = cv2.resize(deskewed, None, fx=2, fy=2, interpolation=cv2.INTER_LINEAR)
+        resized = cv2.resize(rotated, None, fx=2, fy=2, interpolation=cv2.INTER_LINEAR)
         if debug_mode:
-            save_image(resized, "5. Resized.png")"""
+            save_image(resized, "5. Resized.png")
 
         thresholded = cv2.adaptiveThreshold(
-            rotated, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 65, 13
+            resized, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 65, 13
         )
         if debug_mode:
             save_image(thresholded, "6. Thresholded.png")
