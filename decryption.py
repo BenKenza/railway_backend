@@ -62,8 +62,8 @@ Ta mission :
 {{
   "identifiant": "nom_du_test",
   "value": 45,
-  "measurement": "ml",  ← Corriger si erronée
-  "reference": "plage_attendue"
+  "measurement": "ml",
+  "reference": "plage_attendue",
   "interpretation": "bad"
 }}
 
