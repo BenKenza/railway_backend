@@ -41,7 +41,7 @@ smoking_num = 1 if smoking.lower() in ['oui', 'yes', 'true', 'smoker'] else 0
 
 # 🧠 Prompt pour Gemini
 prompt = f"""
-Tu es un assistant médical expert. Voici un texte brut OCR avec des résultats d’analyses médicales :
+Tu es un assistant médical expert. Voici un texte brut OCR contenant des résultats d’analyses médicales :
 
 {textwrap.shorten(message, width=3000)}  # Pour éviter les prompts trop longs
 
@@ -51,29 +51,38 @@ Informations patient :
 - Fumeur: {smoking_num}
 
 Ta mission :
-1. Ignore les données non médicales.
-2. Associe chaque test à sa valeur, unité, plage de référence, et interprétation ('bad', 'normal', 'illogical').
+1. Ignore les données non médicales ou personnelles.
+2. Identifie chaque test médical et associe-le à :
+   - sa valeur (`value`)
+   - son unité correcte (`measurement`) — si l'unité est absente ou incohérente, déduis-la selon le test.
+   - sa plage de référence (`reference`) — utilise des plages normales médicales connues si absentes ou incorrectes.
+   - une interprétation (`interpretation`) parmi : `"normal"`, `"bad"`, `"illogical"`
+
 3. Structure chaque test sous ce format JSON :
 {{
   "identifiant": "nom_du_test",
   "value": 45,
-  "measurement": "ml",
-  "reference": "plage_attendue",
+  "measurement": "ml",  ← Corriger si erronée
+  "reference": "50-150 ml",  ← Compléter si manquante
   "interpretation": "bad"
 }}
 
-4. Remplis uniquement les colonnes du dataset suivant :
+4. Remplis uniquement les champs du dataset suivant :
 ["age", "creatinine_phosphokinase", "ejection_fraction", "sex"]
-
-Règles :
-- creatinine_phosphokinase : si présent, valeur en UI/L
-- ejection_fraction : % si disponible
+- creatinine_phosphokinase : valeur en UI/L
+- ejection_fraction : en %
 - age et sex sont déjà fournis
 
-Retourne un objet JSON strictement valide avec :
-- "results" : liste des tests formatés
-- "data" : dictionnaire des valeurs du dataset
+Exigences :
+- Corrige toute incohérence dans l’unité ou la plage de référence selon des normes médicales.
+- Si une information est absente, complète-la avec des valeurs médicales standard.
+- Retourne un objet JSON **strictement valide**, contenant :
+  - `"results"` : liste des tests analysés
+  - `"data"` : dictionnaire avec les valeurs pour le dataset
+
+Réponds uniquement avec cet objet JSON.
 """
+
 
 # 🚀 Appel à Gemini
 try:
