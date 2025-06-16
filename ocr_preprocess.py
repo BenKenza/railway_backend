@@ -175,30 +175,30 @@ def getmessage(imagefile, debug_mode=True):
             raise ValueError("Image introuvable")
 
         if debug_mode:
-           " save_image(img, "1. Image originale.png")
+            save_image(img, "1. Image originale.png")
             logger.info("Image originale chargée")
 
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
         if debug_mode:
-            "save_image(gray, "2. Gray.png")
+            save_image(gray, "2. Gray.png")
 
         rotated = try_rotations(gray, valid_words_set)
         """if debug_mode:
-            "save_image(rotated, "3. Rotated.png")
+            save_image(rotated, "3. Rotated.png")
 
         deskewed = deskew(rotated)"""
         """if debug_mode:
-            "save_image(deskewed, "4. Deskewed.png")
+            save_image(deskewed, "4. Deskewed.png")
 
         resized = cv2.resize(deskewed, None, fx=2, fy=2, interpolation=cv2.INTER_LINEAR)"""
         if debug_mode:
-            "save_image(resized, "5. Resized.png")
+            save_image(resized, "5. Resized.png")
 
         thresholded = cv2.adaptiveThreshold(
             rotated, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 65, 13
         )
         if debug_mode:
-            "save_image(thresholded, "6. Thresholded.png")
+            save_image(thresholded, "6. Thresholded.png")
 
         text = pytesseract.image_to_string(thresholded, lang="fra", config='--oem 3 --psm 6')
         logger.info("OCR terminé.")
