@@ -55,7 +55,7 @@ Ta mission :
 2. Identifie chaque test médical et associe-le à :
    - sa valeur (`value`)
    - son unité correcte (`measurement`) — si l'unité est absente ou incohérente, déduis-la selon le test.
-   - sa plage de référence (`reference`) — utilise des plages normales médicales connues si absentes ou incorrectes.
+   - sa plage de référence (`reference`) 
    - une interprétation (`interpretation`) parmi : `"normal"`, `"bad"`, `"illogical"`
 
 3. Structure chaque test sous ce format JSON :
@@ -63,7 +63,7 @@ Ta mission :
   "identifiant": "nom_du_test",
   "value": 45,
   "measurement": "ml",  ← Corriger si erronée
-  "reference": "50-150 ml",  ← Compléter si manquante
+  "reference": "plage_attendue"
   "interpretation": "bad"
 }}
 
